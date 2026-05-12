@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { categories, getCategoryData } from './data/mockData';
 import * as Icons from 'lucide-react';
 import './App.css';
@@ -6,6 +6,21 @@ import './App.css';
 function App() {
   const [activeCategory, setActiveCategory] = useState(null);
   const [activeTab, setActiveTab] = useState('최근기사');
+  const [liveData, setLiveData] = useState(null);
+  const [lastUpdated, setLastUpdated] = useState(null);
+
+  useEffect(() => {
+    fetch('/liveData.json')
+      .then((res) => {
+        if (!res.ok) throw new Error('not found');
+        return res.json();
+      })
+      .then((json) => {
+        setLiveData(json.data);
+        setLastUpdated(json.updatedAt);
+      })
+      .catch(() => {});
+  }, []);
 
   const handleCategoryClick = (categoryId) => {
     setActiveCategory(categoryId);
@@ -18,7 +33,14 @@ function App() {
     return <IconComponent size={48} color={color} strokeWidth={1.5} />;
   };
 
-  const activeCategoryData = activeCategory ? getCategoryData(activeCategory) : null;
+  const activeCategoryData = useMemo(() => {
+    if (!activeCategory) return null;
+    const category = categories.find((c) => c.id === activeCategory);
+    if (!category) return null;
+    if (liveData && liveData[category.name]) return liveData[category.name];
+    return getCategoryData(activeCategory);
+  }, [activeCategory, liveData]);
+
   const activeCategoryInfo = activeCategory ? categories.find(c => c.id === activeCategory) : null;
 
   return (
@@ -155,6 +177,11 @@ function App() {
       
       <footer className="app-footer">
         <p>※ 매주 월요일, 새로운 활동 내용이 자동으로 업데이트됩니다.</p>
+        {lastUpdated && (
+          <p style={{ fontSize: '0.8rem', color: '#94a3b8', marginTop: '0.25rem' }}>
+            마지막 업데이트: {new Date(lastUpdated).toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' })}
+          </p>
+        )}
       </footer>
     </div>
   );
