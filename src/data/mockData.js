@@ -1,11 +1,11 @@
 export const categories = [
-  { id: 'mission', name: '선교', icon: 'HeartHandshake', color: '#ff6b6b' },
   { id: 'conference', name: '학회', icon: 'Users', color: '#4ecdc4' },
   { id: 'futurespace', name: '미래공간', icon: 'Rocket', color: '#45b7d1' },
   { id: 'reading', name: '독서', icon: 'BookOpen', color: '#f9ca24' },
   { id: 'piarc', name: '세계도로협회', icon: 'Globe', color: '#2980b9' },
   { id: 'travel', name: '여행', icon: 'Plane', color: '#9b59b6' },
-  { id: 'language', name: '언어', icon: 'Languages', color: '#e67e22' }
+  { id: 'language', name: '언어', icon: 'Languages', color: '#e67e22' },
+  { id: 'mission', name: '선교', icon: 'HeartHandshake', color: '#ff6b6b' }
 ];
 
 const sampleTitles = {
