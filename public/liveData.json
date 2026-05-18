@@ -1,0 +1,2077 @@
+{
+  "updatedAt": "2026-05-18T12:52:21.411Z",
+  "data": {
+    "학회": {
+      "최근기사": {
+        "recent": [
+          {
+            "id": "학회-최근기사-0-1779108740653",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 616,
+            "visitors": 123,
+            "citations": 46
+          },
+          {
+            "id": "학회-최근기사-1-1779108740653",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 184,
+            "visitors": 369,
+            "citations": 20
+          },
+          {
+            "id": "학회-최근기사-2-1779108740653",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 653,
+            "visitors": 250,
+            "citations": 36
+          }
+        ],
+        "popular": [
+          {
+            "id": "학회-최근기사-4-1779108740653",
+            "title": "Simulations of gas inflow in the Milky Way I. Stellar-Feedback-Regulated Transport from the Central Molecular Zone to the Circumnuclear disk",
+            "summary": "We perform hydrodynamical simulations with radially varying resolution to study the effects of stellar feedback on the radial inflow of gas from the Central Mol...",
+            "link": "http://arxiv.org/abs/2605.16192v1",
+            "date": "2026년 05월 15일",
+            "views": 989,
+            "visitors": 317,
+            "citations": 16
+          },
+          {
+            "id": "학회-최근기사-3-1779108740653",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 893,
+            "visitors": 480,
+            "citations": 5
+          },
+          {
+            "id": "학회-최근기사-2-1779108740653",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 653,
+            "visitors": 250,
+            "citations": 36
+          }
+        ],
+        "cited": [
+          {
+            "id": "학회-최근기사-0-1779108740653",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 616,
+            "visitors": 123,
+            "citations": 46
+          },
+          {
+            "id": "학회-최근기사-2-1779108740653",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 653,
+            "visitors": 250,
+            "citations": 36
+          },
+          {
+            "id": "학회-최근기사-1-1779108740653",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 184,
+            "visitors": 369,
+            "citations": 20
+          }
+        ]
+      },
+      "논문(연구보고서)": {
+        "recent": [
+          {
+            "id": "학회-논문(연구보고서)-0-1779108740667",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 293,
+            "visitors": 399,
+            "citations": 47
+          },
+          {
+            "id": "학회-논문(연구보고서)-1-1779108740667",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 983,
+            "visitors": 495,
+            "citations": 43
+          },
+          {
+            "id": "학회-논문(연구보고서)-2-1779108740667",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 266,
+            "visitors": 51,
+            "citations": 29
+          }
+        ],
+        "popular": [
+          {
+            "id": "학회-논문(연구보고서)-1-1779108740667",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 983,
+            "visitors": 495,
+            "citations": 43
+          },
+          {
+            "id": "학회-논문(연구보고서)-3-1779108740667",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 941,
+            "visitors": 58,
+            "citations": 35
+          },
+          {
+            "id": "학회-논문(연구보고서)-4-1779108740667",
+            "title": "Simulations of gas inflow in the Milky Way I. Stellar-Feedback-Regulated Transport from the Central Molecular Zone to the Circumnuclear disk",
+            "summary": "We perform hydrodynamical simulations with radially varying resolution to study the effects of stellar feedback on the radial inflow of gas from the Central Mol...",
+            "link": "http://arxiv.org/abs/2605.16192v1",
+            "date": "2026년 05월 15일",
+            "views": 483,
+            "visitors": 351,
+            "citations": 25
+          }
+        ],
+        "cited": [
+          {
+            "id": "학회-논문(연구보고서)-0-1779108740667",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 293,
+            "visitors": 399,
+            "citations": 47
+          },
+          {
+            "id": "학회-논문(연구보고서)-1-1779108740667",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 983,
+            "visitors": 495,
+            "citations": 43
+          },
+          {
+            "id": "학회-논문(연구보고서)-3-1779108740667",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 941,
+            "visitors": 58,
+            "citations": 35
+          }
+        ]
+      },
+      "발표자료": {
+        "recent": [
+          {
+            "id": "학회-발표자료-0-1779108740672",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 848,
+            "visitors": 254,
+            "citations": 7
+          },
+          {
+            "id": "학회-발표자료-1-1779108740672",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 525,
+            "visitors": 123,
+            "citations": 12
+          },
+          {
+            "id": "학회-발표자료-2-1779108740672",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 463,
+            "visitors": 266,
+            "citations": 29
+          }
+        ],
+        "popular": [
+          {
+            "id": "학회-발표자료-0-1779108740672",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 848,
+            "visitors": 254,
+            "citations": 7
+          },
+          {
+            "id": "학회-발표자료-1-1779108740672",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 525,
+            "visitors": 123,
+            "citations": 12
+          },
+          {
+            "id": "학회-발표자료-2-1779108740672",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 463,
+            "visitors": 266,
+            "citations": 29
+          }
+        ],
+        "cited": [
+          {
+            "id": "학회-발표자료-2-1779108740672",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 463,
+            "visitors": 266,
+            "citations": 29
+          },
+          {
+            "id": "학회-발표자료-3-1779108740672",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 200,
+            "visitors": 405,
+            "citations": 24
+          },
+          {
+            "id": "학회-발표자료-1-1779108740672",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 525,
+            "visitors": 123,
+            "citations": 12
+          }
+        ]
+      }
+    },
+    "미래공간": {
+      "최근기사": {
+        "recent": [
+          {
+            "id": "미래공간-최근기사-0-1779108740954",
+            "title": "Burnside process on parking functions and Dyck paths",
+            "summary": "Let $G$ be a finite group acting on a finite set $X$. This group action splits $X$ into disjoint orbits. The Burnside process is a Markov chain on $X$ which has...",
+            "link": "http://arxiv.org/abs/2605.16244v1",
+            "date": "2026년 05월 15일",
+            "views": 463,
+            "visitors": 295,
+            "citations": 15
+          },
+          {
+            "id": "미래공간-최근기사-1-1779108740954",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 995,
+            "visitors": 140,
+            "citations": 47
+          },
+          {
+            "id": "미래공간-최근기사-2-1779108740954",
+            "title": "Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism",
+            "summary": "Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging central features of ferromagnets (FMs) and antiferromagnets (AFMs), offering new ...",
+            "link": "http://arxiv.org/abs/2605.16242v1",
+            "date": "2026년 05월 15일",
+            "views": 480,
+            "visitors": 94,
+            "citations": 30
+          }
+        ],
+        "popular": [
+          {
+            "id": "미래공간-최근기사-1-1779108740954",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 995,
+            "visitors": 140,
+            "citations": 47
+          },
+          {
+            "id": "미래공간-최근기사-3-1779108740954",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 496,
+            "visitors": 328,
+            "citations": 34
+          },
+          {
+            "id": "미래공간-최근기사-2-1779108740954",
+            "title": "Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism",
+            "summary": "Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging central features of ferromagnets (FMs) and antiferromagnets (AFMs), offering new ...",
+            "link": "http://arxiv.org/abs/2605.16242v1",
+            "date": "2026년 05월 15일",
+            "views": 480,
+            "visitors": 94,
+            "citations": 30
+          }
+        ],
+        "cited": [
+          {
+            "id": "미래공간-최근기사-1-1779108740954",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 995,
+            "visitors": 140,
+            "citations": 47
+          },
+          {
+            "id": "미래공간-최근기사-3-1779108740954",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 496,
+            "visitors": 328,
+            "citations": 34
+          },
+          {
+            "id": "미래공간-최근기사-2-1779108740954",
+            "title": "Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism",
+            "summary": "Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging central features of ferromagnets (FMs) and antiferromagnets (AFMs), offering new ...",
+            "link": "http://arxiv.org/abs/2605.16242v1",
+            "date": "2026년 05월 15일",
+            "views": 480,
+            "visitors": 94,
+            "citations": 30
+          }
+        ]
+      },
+      "논문(연구보고서)": {
+        "recent": [
+          {
+            "id": "미래공간-논문(연구보고서)-0-1779108740960",
+            "title": "Burnside process on parking functions and Dyck paths",
+            "summary": "Let $G$ be a finite group acting on a finite set $X$. This group action splits $X$ into disjoint orbits. The Burnside process is a Markov chain on $X$ which has...",
+            "link": "http://arxiv.org/abs/2605.16244v1",
+            "date": "2026년 05월 15일",
+            "views": 503,
+            "visitors": 86,
+            "citations": 24
+          },
+          {
+            "id": "미래공간-논문(연구보고서)-1-1779108740960",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 162,
+            "visitors": 403,
+            "citations": 32
+          },
+          {
+            "id": "미래공간-논문(연구보고서)-2-1779108740960",
+            "title": "Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism",
+            "summary": "Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging central features of ferromagnets (FMs) and antiferromagnets (AFMs), offering new ...",
+            "link": "http://arxiv.org/abs/2605.16242v1",
+            "date": "2026년 05월 15일",
+            "views": 897,
+            "visitors": 441,
+            "citations": 6
+          }
+        ],
+        "popular": [
+          {
+            "id": "미래공간-논문(연구보고서)-2-1779108740960",
+            "title": "Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism",
+            "summary": "Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging central features of ferromagnets (FMs) and antiferromagnets (AFMs), offering new ...",
+            "link": "http://arxiv.org/abs/2605.16242v1",
+            "date": "2026년 05월 15일",
+            "views": 897,
+            "visitors": 441,
+            "citations": 6
+          },
+          {
+            "id": "미래공간-논문(연구보고서)-0-1779108740960",
+            "title": "Burnside process on parking functions and Dyck paths",
+            "summary": "Let $G$ be a finite group acting on a finite set $X$. This group action splits $X$ into disjoint orbits. The Burnside process is a Markov chain on $X$ which has...",
+            "link": "http://arxiv.org/abs/2605.16244v1",
+            "date": "2026년 05월 15일",
+            "views": 503,
+            "visitors": 86,
+            "citations": 24
+          },
+          {
+            "id": "미래공간-논문(연구보고서)-3-1779108740960",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 419,
+            "visitors": 362,
+            "citations": 37
+          }
+        ],
+        "cited": [
+          {
+            "id": "미래공간-논문(연구보고서)-3-1779108740960",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 419,
+            "visitors": 362,
+            "citations": 37
+          },
+          {
+            "id": "미래공간-논문(연구보고서)-4-1779108740960",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 157,
+            "visitors": 161,
+            "citations": 33
+          },
+          {
+            "id": "미래공간-논문(연구보고서)-1-1779108740960",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 162,
+            "visitors": 403,
+            "citations": 32
+          }
+        ]
+      },
+      "발표자료": {
+        "recent": [
+          {
+            "id": "미래공간-발표자료-0-1779108740966",
+            "title": "Burnside process on parking functions and Dyck paths",
+            "summary": "Let $G$ be a finite group acting on a finite set $X$. This group action splits $X$ into disjoint orbits. The Burnside process is a Markov chain on $X$ which has...",
+            "link": "http://arxiv.org/abs/2605.16244v1",
+            "date": "2026년 05월 15일",
+            "views": 214,
+            "visitors": 305,
+            "citations": 37
+          },
+          {
+            "id": "미래공간-발표자료-1-1779108740966",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 904,
+            "visitors": 109,
+            "citations": 39
+          },
+          {
+            "id": "미래공간-발표자료-2-1779108740966",
+            "title": "Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism",
+            "summary": "Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging central features of ferromagnets (FMs) and antiferromagnets (AFMs), offering new ...",
+            "link": "http://arxiv.org/abs/2605.16242v1",
+            "date": "2026년 05월 15일",
+            "views": 753,
+            "visitors": 291,
+            "citations": 7
+          }
+        ],
+        "popular": [
+          {
+            "id": "미래공간-발표자료-1-1779108740966",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 904,
+            "visitors": 109,
+            "citations": 39
+          },
+          {
+            "id": "미래공간-발표자료-2-1779108740966",
+            "title": "Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism",
+            "summary": "Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging central features of ferromagnets (FMs) and antiferromagnets (AFMs), offering new ...",
+            "link": "http://arxiv.org/abs/2605.16242v1",
+            "date": "2026년 05월 15일",
+            "views": 753,
+            "visitors": 291,
+            "citations": 7
+          },
+          {
+            "id": "미래공간-발표자료-3-1779108740966",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 519,
+            "visitors": 252,
+            "citations": 9
+          }
+        ],
+        "cited": [
+          {
+            "id": "미래공간-발표자료-1-1779108740966",
+            "title": "Stern--Gerlach Spin Sorting in Relativistic Magnetic Reconnection",
+            "summary": "We introduce a Stern--Gerlach (SG) spin-kinetic control parameter for magnetic reconnection. The fully projected branch parameter, $Ξ_0=&lt;Z&gt;/r_L$ compares ...",
+            "link": "http://arxiv.org/abs/2605.16243v1",
+            "date": "2026년 05월 15일",
+            "views": 904,
+            "visitors": 109,
+            "citations": 39
+          },
+          {
+            "id": "미래공간-발표자료-0-1779108740966",
+            "title": "Burnside process on parking functions and Dyck paths",
+            "summary": "Let $G$ be a finite group acting on a finite set $X$. This group action splits $X$ into disjoint orbits. The Burnside process is a Markov chain on $X$ which has...",
+            "link": "http://arxiv.org/abs/2605.16244v1",
+            "date": "2026년 05월 15일",
+            "views": 214,
+            "visitors": 305,
+            "citations": 37
+          },
+          {
+            "id": "미래공간-발표자료-4-1779108740966",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 206,
+            "visitors": 105,
+            "citations": 20
+          }
+        ]
+      }
+    },
+    "독서": {
+      "최근기사": {
+        "recent": [
+          {
+            "id": "독서-최근기사-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D",
+            "views": 380,
+            "visitors": 116,
+            "citations": 5
+          },
+          {
+            "id": "독서-최근기사-1-1779108740967",
+            "title": "AI 시대의 인문학적 사고",
+            "date": "2026년 05월 17일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0",
+            "views": 200,
+            "visitors": 284,
+            "citations": 41
+          },
+          {
+            "id": "독서-최근기사-2-1779108740967",
+            "title": "리더십과 소통의 기술",
+            "date": "2026년 05월 16일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0",
+            "views": 379,
+            "visitors": 443,
+            "citations": 10
+          }
+        ],
+        "popular": [
+          {
+            "id": "독서-최근기사-3-1779108740967",
+            "title": "경제 불확실성을 극복하는 투자 전략",
+            "date": "2026년 05월 15일",
+            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5",
+            "views": 682,
+            "visitors": 298,
+            "citations": 10
+          },
+          {
+            "id": "독서-최근기사-4-1779108740967",
+            "title": "마음챙김 명상 실천 가이드",
+            "date": "2026년 05월 14일",
+            "summary": "마음챙김 명상 실천 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A7%88%EC%9D%8C%EC%B1%99%EA%B9%80%20%EB%AA%85%EC%83%81%20%EC%8B%A4%EC%B2%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C",
+            "views": 489,
+            "visitors": 361,
+            "citations": 39
+          },
+          {
+            "id": "독서-최근기사-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D",
+            "views": 380,
+            "visitors": 116,
+            "citations": 5
+          }
+        ],
+        "cited": [
+          {
+            "id": "독서-최근기사-1-1779108740967",
+            "title": "AI 시대의 인문학적 사고",
+            "date": "2026년 05월 17일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0",
+            "views": 200,
+            "visitors": 284,
+            "citations": 41
+          },
+          {
+            "id": "독서-최근기사-4-1779108740967",
+            "title": "마음챙김 명상 실천 가이드",
+            "date": "2026년 05월 14일",
+            "summary": "마음챙김 명상 실천 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A7%88%EC%9D%8C%EC%B1%99%EA%B9%80%20%EB%AA%85%EC%83%81%20%EC%8B%A4%EC%B2%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C",
+            "views": 489,
+            "visitors": 361,
+            "citations": 39
+          },
+          {
+            "id": "독서-최근기사-2-1779108740967",
+            "title": "리더십과 소통의 기술",
+            "date": "2026년 05월 16일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0",
+            "views": 379,
+            "visitors": 443,
+            "citations": 10
+          }
+        ]
+      },
+      "논문(연구보고서)": {
+        "recent": [
+          {
+            "id": "독서-논문(연구보고서)-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석 (Research Report)",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 913,
+            "visitors": 307,
+            "citations": 24
+          },
+          {
+            "id": "독서-논문(연구보고서)-1-1779108740967",
+            "title": "AI 시대의 인문학적 사고 (Research Report)",
+            "date": "2026년 05월 17일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Research%20Report)",
+            "views": 809,
+            "visitors": 498,
+            "citations": 13
+          },
+          {
+            "id": "독서-논문(연구보고서)-2-1779108740967",
+            "title": "리더십과 소통의 기술 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Research%20Report)",
+            "views": 754,
+            "visitors": 450,
+            "citations": 49
+          }
+        ],
+        "popular": [
+          {
+            "id": "독서-논문(연구보고서)-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석 (Research Report)",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 913,
+            "visitors": 307,
+            "citations": 24
+          },
+          {
+            "id": "독서-논문(연구보고서)-1-1779108740967",
+            "title": "AI 시대의 인문학적 사고 (Research Report)",
+            "date": "2026년 05월 17일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Research%20Report)",
+            "views": 809,
+            "visitors": 498,
+            "citations": 13
+          },
+          {
+            "id": "독서-논문(연구보고서)-2-1779108740967",
+            "title": "리더십과 소통의 기술 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Research%20Report)",
+            "views": 754,
+            "visitors": 450,
+            "citations": 49
+          }
+        ],
+        "cited": [
+          {
+            "id": "독서-논문(연구보고서)-2-1779108740967",
+            "title": "리더십과 소통의 기술 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Research%20Report)",
+            "views": 754,
+            "visitors": 450,
+            "citations": 49
+          },
+          {
+            "id": "독서-논문(연구보고서)-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석 (Research Report)",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 913,
+            "visitors": 307,
+            "citations": 24
+          },
+          {
+            "id": "독서-논문(연구보고서)-3-1779108740967",
+            "title": "경제 불확실성을 극복하는 투자 전략 (Research Report)",
+            "date": "2026년 05월 15일",
+            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
+            "views": 703,
+            "visitors": 301,
+            "citations": 24
+          }
+        ]
+      },
+      "발표자료": {
+        "recent": [
+          {
+            "id": "독서-발표자료-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석 (Presentation)",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Presentation)",
+            "views": 907,
+            "visitors": 281,
+            "citations": 26
+          },
+          {
+            "id": "독서-발표자료-1-1779108740967",
+            "title": "AI 시대의 인문학적 사고 (Presentation)",
+            "date": "2026년 05월 17일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Presentation)",
+            "views": 175,
+            "visitors": 145,
+            "citations": 50
+          },
+          {
+            "id": "독서-발표자료-2-1779108740967",
+            "title": "리더십과 소통의 기술 (Presentation)",
+            "date": "2026년 05월 16일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Presentation)",
+            "views": 752,
+            "visitors": 500,
+            "citations": 9
+          }
+        ],
+        "popular": [
+          {
+            "id": "독서-발표자료-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석 (Presentation)",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Presentation)",
+            "views": 907,
+            "visitors": 281,
+            "citations": 26
+          },
+          {
+            "id": "독서-발표자료-2-1779108740967",
+            "title": "리더십과 소통의 기술 (Presentation)",
+            "date": "2026년 05월 16일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Presentation)",
+            "views": 752,
+            "visitors": 500,
+            "citations": 9
+          },
+          {
+            "id": "독서-발표자료-3-1779108740967",
+            "title": "경제 불확실성을 극복하는 투자 전략 (Presentation)",
+            "date": "2026년 05월 15일",
+            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
+            "views": 625,
+            "visitors": 195,
+            "citations": 13
+          }
+        ],
+        "cited": [
+          {
+            "id": "독서-발표자료-1-1779108740967",
+            "title": "AI 시대의 인문학적 사고 (Presentation)",
+            "date": "2026년 05월 17일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Presentation)",
+            "views": 175,
+            "visitors": 145,
+            "citations": 50
+          },
+          {
+            "id": "독서-발표자료-0-1779108740967",
+            "title": "2026년 트렌드 코리아 분석 (Presentation)",
+            "date": "2026년 05월 18일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Presentation)",
+            "views": 907,
+            "visitors": 281,
+            "citations": 26
+          },
+          {
+            "id": "독서-발표자료-3-1779108740967",
+            "title": "경제 불확실성을 극복하는 투자 전략 (Presentation)",
+            "date": "2026년 05월 15일",
+            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
+            "views": 625,
+            "visitors": 195,
+            "citations": 13
+          }
+        ]
+      }
+    },
+    "세계도로협회": {
+      "최근기사": {
+        "recent": [
+          {
+            "id": "세계도로협회-최근기사-0-1779108741178",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 470,
+            "visitors": 312,
+            "citations": 26
+          },
+          {
+            "id": "세계도로협회-최근기사-1-1779108741178",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 727,
+            "visitors": 242,
+            "citations": 28
+          },
+          {
+            "id": "세계도로협회-최근기사-2-1779108741178",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 128,
+            "visitors": 193,
+            "citations": 25
+          }
+        ],
+        "popular": [
+          {
+            "id": "세계도로협회-최근기사-1-1779108741178",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 727,
+            "visitors": 242,
+            "citations": 28
+          },
+          {
+            "id": "세계도로협회-최근기사-3-1779108741178",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 546,
+            "visitors": 186,
+            "citations": 43
+          },
+          {
+            "id": "세계도로협회-최근기사-0-1779108741178",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 470,
+            "visitors": 312,
+            "citations": 26
+          }
+        ],
+        "cited": [
+          {
+            "id": "세계도로협회-최근기사-3-1779108741178",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 546,
+            "visitors": 186,
+            "citations": 43
+          },
+          {
+            "id": "세계도로협회-최근기사-1-1779108741178",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 727,
+            "visitors": 242,
+            "citations": 28
+          },
+          {
+            "id": "세계도로협회-최근기사-0-1779108741178",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 470,
+            "visitors": 312,
+            "citations": 26
+          }
+        ]
+      },
+      "논문(연구보고서)": {
+        "recent": [
+          {
+            "id": "세계도로협회-논문(연구보고서)-0-1779108741186",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 378,
+            "visitors": 163,
+            "citations": 11
+          },
+          {
+            "id": "세계도로협회-논문(연구보고서)-1-1779108741186",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 354,
+            "visitors": 209,
+            "citations": 43
+          },
+          {
+            "id": "세계도로협회-논문(연구보고서)-2-1779108741186",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 836,
+            "visitors": 185,
+            "citations": 38
+          }
+        ],
+        "popular": [
+          {
+            "id": "세계도로협회-논문(연구보고서)-4-1779108741186",
+            "title": "From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems",
+            "summary": "Ransomware recovery in critical manufacturing infrastructure is not only a backup-restoration problem. Production capability depends on coupled information-tech...",
+            "link": "http://arxiv.org/abs/2605.16167v1",
+            "date": "2026년 05월 15일",
+            "views": 997,
+            "visitors": 260,
+            "citations": 50
+          },
+          {
+            "id": "세계도로협회-논문(연구보고서)-2-1779108741186",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 836,
+            "visitors": 185,
+            "citations": 38
+          },
+          {
+            "id": "세계도로협회-논문(연구보고서)-3-1779108741186",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 385,
+            "visitors": 297,
+            "citations": 46
+          }
+        ],
+        "cited": [
+          {
+            "id": "세계도로협회-논문(연구보고서)-4-1779108741186",
+            "title": "From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems",
+            "summary": "Ransomware recovery in critical manufacturing infrastructure is not only a backup-restoration problem. Production capability depends on coupled information-tech...",
+            "link": "http://arxiv.org/abs/2605.16167v1",
+            "date": "2026년 05월 15일",
+            "views": 997,
+            "visitors": 260,
+            "citations": 50
+          },
+          {
+            "id": "세계도로협회-논문(연구보고서)-3-1779108741186",
+            "title": "Position: AI as Part of Self -- Extending the Mind Requires Cognitive Co-Regulation",
+            "summary": "This position paper argues that safety and alignment cannot be achieved by constraining an external system: they must emerge from the co-regulatory design of th...",
+            "link": "http://arxiv.org/abs/2605.16197v1",
+            "date": "2026년 05월 15일",
+            "views": 385,
+            "visitors": 297,
+            "citations": 46
+          },
+          {
+            "id": "세계도로협회-논문(연구보고서)-1-1779108741186",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 354,
+            "visitors": 209,
+            "citations": 43
+          }
+        ]
+      },
+      "발표자료": {
+        "recent": [
+          {
+            "id": "세계도로협회-발표자료-0-1779108741191",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 625,
+            "visitors": 370,
+            "citations": 45
+          },
+          {
+            "id": "세계도로협회-발표자료-1-1779108741191",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 344,
+            "visitors": 123,
+            "citations": 50
+          },
+          {
+            "id": "세계도로협회-발표자료-2-1779108741191",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 754,
+            "visitors": 369,
+            "citations": 30
+          }
+        ],
+        "popular": [
+          {
+            "id": "세계도로협회-발표자료-4-1779108741191",
+            "title": "From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems",
+            "summary": "Ransomware recovery in critical manufacturing infrastructure is not only a backup-restoration problem. Production capability depends on coupled information-tech...",
+            "link": "http://arxiv.org/abs/2605.16167v1",
+            "date": "2026년 05월 15일",
+            "views": 843,
+            "visitors": 213,
+            "citations": 39
+          },
+          {
+            "id": "세계도로협회-발표자료-2-1779108741191",
+            "title": "Context, Reasoning, and Hierarchy: A Cost-Performance Study of Compound LLM Agent Design in an Adversarial POMDP",
+            "summary": "Deploying compound LLM agents in adversarial, partially observable sequential environments requires navigating several design dimensions: (1) what the agent see...",
+            "link": "http://arxiv.org/abs/2605.16205v1",
+            "date": "2026년 05월 15일",
+            "views": 754,
+            "visitors": 369,
+            "citations": 30
+          },
+          {
+            "id": "세계도로협회-발표자료-0-1779108741191",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 625,
+            "visitors": 370,
+            "citations": 45
+          }
+        ],
+        "cited": [
+          {
+            "id": "세계도로협회-발표자료-1-1779108741191",
+            "title": "Scheme-invariant stratified factorization algebras for inclusive deep inelastic scattering",
+            "summary": "Inclusive deep inelastic scattering factorization combines two features that are often treated separately: an asymptotic reconstruction of the current-current m...",
+            "link": "http://arxiv.org/abs/2605.16231v1",
+            "date": "2026년 05월 15일",
+            "views": 344,
+            "visitors": 123,
+            "citations": 50
+          },
+          {
+            "id": "세계도로협회-발표자료-0-1779108741191",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 625,
+            "visitors": 370,
+            "citations": 45
+          },
+          {
+            "id": "세계도로협회-발표자료-4-1779108741191",
+            "title": "From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems",
+            "summary": "Ransomware recovery in critical manufacturing infrastructure is not only a backup-restoration problem. Production capability depends on coupled information-tech...",
+            "link": "http://arxiv.org/abs/2605.16167v1",
+            "date": "2026년 05월 15일",
+            "views": 843,
+            "visitors": 213,
+            "citations": 39
+          }
+        ]
+      }
+    },
+    "여행": {
+      "최근기사": {
+        "recent": [
+          {
+            "id": "여행-최근기사-0-1779108741191",
+            "title": "지속 가능한 생태 관광 가이드",
+            "date": "2026년 05월 18일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C",
+            "views": 586,
+            "visitors": 383,
+            "citations": 43
+          },
+          {
+            "id": "여행-최근기사-1-1779108741191",
+            "title": "유럽 문화 탐방 기행문",
+            "date": "2026년 05월 17일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8",
+            "views": 911,
+            "visitors": 127,
+            "citations": 12
+          },
+          {
+            "id": "여행-최근기사-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0",
+            "views": 772,
+            "visitors": 321,
+            "citations": 40
+          }
+        ],
+        "popular": [
+          {
+            "id": "여행-최근기사-4-1779108741191",
+            "title": "안전한 해외 여행을 위한 체크리스트",
+            "date": "2026년 05월 14일",
+            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8",
+            "views": 997,
+            "visitors": 345,
+            "citations": 7
+          },
+          {
+            "id": "여행-최근기사-1-1779108741191",
+            "title": "유럽 문화 탐방 기행문",
+            "date": "2026년 05월 17일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8",
+            "views": 911,
+            "visitors": 127,
+            "citations": 12
+          },
+          {
+            "id": "여행-최근기사-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0",
+            "views": 772,
+            "visitors": 321,
+            "citations": 40
+          }
+        ],
+        "cited": [
+          {
+            "id": "여행-최근기사-0-1779108741191",
+            "title": "지속 가능한 생태 관광 가이드",
+            "date": "2026년 05월 18일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C",
+            "views": 586,
+            "visitors": 383,
+            "citations": 43
+          },
+          {
+            "id": "여행-최근기사-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0",
+            "views": 772,
+            "visitors": 321,
+            "citations": 40
+          },
+          {
+            "id": "여행-최근기사-1-1779108741191",
+            "title": "유럽 문화 탐방 기행문",
+            "date": "2026년 05월 17일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8",
+            "views": 911,
+            "visitors": 127,
+            "citations": 12
+          }
+        ]
+      },
+      "논문(연구보고서)": {
+        "recent": [
+          {
+            "id": "여행-논문(연구보고서)-0-1779108741191",
+            "title": "지속 가능한 생태 관광 가이드 (Research Report)",
+            "date": "2026년 05월 18일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Research%20Report)",
+            "views": 527,
+            "visitors": 241,
+            "citations": 46
+          },
+          {
+            "id": "여행-논문(연구보고서)-1-1779108741191",
+            "title": "유럽 문화 탐방 기행문 (Research Report)",
+            "date": "2026년 05월 17일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Research%20Report)",
+            "views": 256,
+            "visitors": 435,
+            "citations": 25
+          },
+          {
+            "id": "여행-논문(연구보고서)-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Research%20Report)",
+            "views": 880,
+            "visitors": 101,
+            "citations": 46
+          }
+        ],
+        "popular": [
+          {
+            "id": "여행-논문(연구보고서)-3-1779108741191",
+            "title": "디지털 노마드를 위한 워케이션 추천지 (Research Report)",
+            "date": "2026년 05월 15일",
+            "summary": "디지털 노마드를 위한 워케이션 추천지에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EB%85%B8%EB%A7%88%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%B6%94%EC%B2%9C%EC%A7%80%20(Research%20Report)",
+            "views": 926,
+            "visitors": 484,
+            "citations": 19
+          },
+          {
+            "id": "여행-논문(연구보고서)-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Research%20Report)",
+            "views": 880,
+            "visitors": 101,
+            "citations": 46
+          },
+          {
+            "id": "여행-논문(연구보고서)-4-1779108741191",
+            "title": "안전한 해외 여행을 위한 체크리스트 (Research Report)",
+            "date": "2026년 05월 14일",
+            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(Research%20Report)",
+            "views": 559,
+            "visitors": 133,
+            "citations": 46
+          }
+        ],
+        "cited": [
+          {
+            "id": "여행-논문(연구보고서)-0-1779108741191",
+            "title": "지속 가능한 생태 관광 가이드 (Research Report)",
+            "date": "2026년 05월 18일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Research%20Report)",
+            "views": 527,
+            "visitors": 241,
+            "citations": 46
+          },
+          {
+            "id": "여행-논문(연구보고서)-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Research%20Report)",
+            "views": 880,
+            "visitors": 101,
+            "citations": 46
+          },
+          {
+            "id": "여행-논문(연구보고서)-4-1779108741191",
+            "title": "안전한 해외 여행을 위한 체크리스트 (Research Report)",
+            "date": "2026년 05월 14일",
+            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(Research%20Report)",
+            "views": 559,
+            "visitors": 133,
+            "citations": 46
+          }
+        ]
+      },
+      "발표자료": {
+        "recent": [
+          {
+            "id": "여행-발표자료-0-1779108741191",
+            "title": "지속 가능한 생태 관광 가이드 (Presentation)",
+            "date": "2026년 05월 18일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
+            "views": 998,
+            "visitors": 236,
+            "citations": 9
+          },
+          {
+            "id": "여행-발표자료-1-1779108741191",
+            "title": "유럽 문화 탐방 기행문 (Presentation)",
+            "date": "2026년 05월 17일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Presentation)",
+            "views": 901,
+            "visitors": 265,
+            "citations": 18
+          },
+          {
+            "id": "여행-발표자료-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기 (Presentation)",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Presentation)",
+            "views": 579,
+            "visitors": 111,
+            "citations": 46
+          }
+        ],
+        "popular": [
+          {
+            "id": "여행-발표자료-0-1779108741191",
+            "title": "지속 가능한 생태 관광 가이드 (Presentation)",
+            "date": "2026년 05월 18일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
+            "views": 998,
+            "visitors": 236,
+            "citations": 9
+          },
+          {
+            "id": "여행-발표자료-1-1779108741191",
+            "title": "유럽 문화 탐방 기행문 (Presentation)",
+            "date": "2026년 05월 17일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Presentation)",
+            "views": 901,
+            "visitors": 265,
+            "citations": 18
+          },
+          {
+            "id": "여행-발표자료-4-1779108741191",
+            "title": "안전한 해외 여행을 위한 체크리스트 (Presentation)",
+            "date": "2026년 05월 14일",
+            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(Presentation)",
+            "views": 733,
+            "visitors": 242,
+            "citations": 33
+          }
+        ],
+        "cited": [
+          {
+            "id": "여행-발표자료-2-1779108741191",
+            "title": "소도시 매력 발굴 여행기 (Presentation)",
+            "date": "2026년 05월 16일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Presentation)",
+            "views": 579,
+            "visitors": 111,
+            "citations": 46
+          },
+          {
+            "id": "여행-발표자료-4-1779108741191",
+            "title": "안전한 해외 여행을 위한 체크리스트 (Presentation)",
+            "date": "2026년 05월 14일",
+            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(Presentation)",
+            "views": 733,
+            "visitors": 242,
+            "citations": 33
+          },
+          {
+            "id": "여행-발표자료-1-1779108741191",
+            "title": "유럽 문화 탐방 기행문 (Presentation)",
+            "date": "2026년 05월 17일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Presentation)",
+            "views": 901,
+            "visitors": 265,
+            "citations": 18
+          }
+        ]
+      }
+    },
+    "언어": {
+      "최근기사": {
+        "recent": [
+          {
+            "id": "언어-최근기사-0-1779108741404",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 277,
+            "visitors": 61,
+            "citations": 37
+          },
+          {
+            "id": "언어-최근기사-1-1779108741404",
+            "title": "AI-Mediated Communication Can Steer Collective Opinion",
+            "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now po...",
+            "link": "http://arxiv.org/abs/2605.16245v1",
+            "date": "2026년 05월 15일",
+            "views": 288,
+            "visitors": 185,
+            "citations": 48
+          },
+          {
+            "id": "언어-최근기사-2-1779108741404",
+            "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+            "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's m...",
+            "link": "http://arxiv.org/abs/2605.16234v1",
+            "date": "2026년 05월 15일",
+            "views": 899,
+            "visitors": 417,
+            "citations": 36
+          }
+        ],
+        "popular": [
+          {
+            "id": "언어-최근기사-2-1779108741404",
+            "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+            "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's m...",
+            "link": "http://arxiv.org/abs/2605.16234v1",
+            "date": "2026년 05월 15일",
+            "views": 899,
+            "visitors": 417,
+            "citations": 36
+          },
+          {
+            "id": "언어-최근기사-3-1779108741404",
+            "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+            "summary": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evo...",
+            "link": "http://arxiv.org/abs/2605.16233v1",
+            "date": "2026년 05월 15일",
+            "views": 569,
+            "visitors": 234,
+            "citations": 42
+          },
+          {
+            "id": "언어-최근기사-1-1779108741404",
+            "title": "AI-Mediated Communication Can Steer Collective Opinion",
+            "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now po...",
+            "link": "http://arxiv.org/abs/2605.16245v1",
+            "date": "2026년 05월 15일",
+            "views": 288,
+            "visitors": 185,
+            "citations": 48
+          }
+        ],
+        "cited": [
+          {
+            "id": "언어-최근기사-1-1779108741404",
+            "title": "AI-Mediated Communication Can Steer Collective Opinion",
+            "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now po...",
+            "link": "http://arxiv.org/abs/2605.16245v1",
+            "date": "2026년 05월 15일",
+            "views": 288,
+            "visitors": 185,
+            "citations": 48
+          },
+          {
+            "id": "언어-최근기사-3-1779108741404",
+            "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+            "summary": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evo...",
+            "link": "http://arxiv.org/abs/2605.16233v1",
+            "date": "2026년 05월 15일",
+            "views": 569,
+            "visitors": 234,
+            "citations": 42
+          },
+          {
+            "id": "언어-최근기사-0-1779108741404",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 277,
+            "visitors": 61,
+            "citations": 37
+          }
+        ]
+      },
+      "논문(연구보고서)": {
+        "recent": [
+          {
+            "id": "언어-논문(연구보고서)-0-1779108741408",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 275,
+            "visitors": 471,
+            "citations": 33
+          },
+          {
+            "id": "언어-논문(연구보고서)-1-1779108741408",
+            "title": "AI-Mediated Communication Can Steer Collective Opinion",
+            "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now po...",
+            "link": "http://arxiv.org/abs/2605.16245v1",
+            "date": "2026년 05월 15일",
+            "views": 846,
+            "visitors": 308,
+            "citations": 28
+          },
+          {
+            "id": "언어-논문(연구보고서)-2-1779108741408",
+            "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+            "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's m...",
+            "link": "http://arxiv.org/abs/2605.16234v1",
+            "date": "2026년 05월 15일",
+            "views": 118,
+            "visitors": 100,
+            "citations": 30
+          }
+        ],
+        "popular": [
+          {
+            "id": "언어-논문(연구보고서)-1-1779108741408",
+            "title": "AI-Mediated Communication Can Steer Collective Opinion",
+            "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now po...",
+            "link": "http://arxiv.org/abs/2605.16245v1",
+            "date": "2026년 05월 15일",
+            "views": 846,
+            "visitors": 308,
+            "citations": 28
+          },
+          {
+            "id": "언어-논문(연구보고서)-4-1779108741408",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 623,
+            "visitors": 450,
+            "citations": 50
+          },
+          {
+            "id": "언어-논문(연구보고서)-0-1779108741408",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 275,
+            "visitors": 471,
+            "citations": 33
+          }
+        ],
+        "cited": [
+          {
+            "id": "언어-논문(연구보고서)-4-1779108741408",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 623,
+            "visitors": 450,
+            "citations": 50
+          },
+          {
+            "id": "언어-논문(연구보고서)-3-1779108741408",
+            "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+            "summary": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evo...",
+            "link": "http://arxiv.org/abs/2605.16233v1",
+            "date": "2026년 05월 15일",
+            "views": 100,
+            "visitors": 432,
+            "citations": 39
+          },
+          {
+            "id": "언어-논문(연구보고서)-0-1779108741408",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 275,
+            "visitors": 471,
+            "citations": 33
+          }
+        ]
+      },
+      "발표자료": {
+        "recent": [
+          {
+            "id": "언어-발표자료-0-1779108741411",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 925,
+            "visitors": 145,
+            "citations": 38
+          },
+          {
+            "id": "언어-발표자료-1-1779108741411",
+            "title": "AI-Mediated Communication Can Steer Collective Opinion",
+            "summary": "Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now po...",
+            "link": "http://arxiv.org/abs/2605.16245v1",
+            "date": "2026년 05월 15일",
+            "views": 462,
+            "visitors": 161,
+            "citations": 11
+          },
+          {
+            "id": "언어-발표자료-2-1779108741411",
+            "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+            "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's m...",
+            "link": "http://arxiv.org/abs/2605.16234v1",
+            "date": "2026년 05월 15일",
+            "views": 890,
+            "visitors": 330,
+            "citations": 25
+          }
+        ],
+        "popular": [
+          {
+            "id": "언어-발표자료-0-1779108741411",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 925,
+            "visitors": 145,
+            "citations": 38
+          },
+          {
+            "id": "언어-발표자료-2-1779108741411",
+            "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+            "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's m...",
+            "link": "http://arxiv.org/abs/2605.16234v1",
+            "date": "2026년 05월 15일",
+            "views": 890,
+            "visitors": 330,
+            "citations": 25
+          },
+          {
+            "id": "언어-발표자료-4-1779108741411",
+            "title": "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation",
+            "summary": "The accelerating convergence of smart metering, generative artificial intelligence, and quantum-inspired combinatorial optimisation is reshaping how energy util...",
+            "link": "http://arxiv.org/abs/2605.16232v1",
+            "date": "2026년 05월 15일",
+            "views": 753,
+            "visitors": 138,
+            "citations": 19
+          }
+        ],
+        "cited": [
+          {
+            "id": "언어-발표자료-0-1779108741411",
+            "title": "A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation",
+            "summary": "Distribution utilities are now expected to deliver bills that customers can actually read attach a defensible carbon number to every kWh sold and schedule load ...",
+            "link": "http://arxiv.org/abs/2605.16250v1",
+            "date": "2026년 05월 15일",
+            "views": 925,
+            "visitors": 145,
+            "citations": 38
+          },
+          {
+            "id": "언어-발표자료-3-1779108741411",
+            "title": "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast",
+            "summary": "Can LLM agents improve decision-making through self-generated memory without gradient updates? We propose FORGE (Failure-Optimized Reflective Graduation and Evo...",
+            "link": "http://arxiv.org/abs/2605.16233v1",
+            "date": "2026년 05월 15일",
+            "views": 250,
+            "visitors": 452,
+            "citations": 35
+          },
+          {
+            "id": "언어-발표자료-2-1779108741411",
+            "title": "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find",
+            "summary": "When researchers ask whether two transformer layers are \"equivalent\" for compression, they often conflate distinct tests. Replacement asks whether one layer's m...",
+            "link": "http://arxiv.org/abs/2605.16234v1",
+            "date": "2026년 05월 15일",
+            "views": 890,
+            "visitors": 330,
+            "citations": 25
+          }
+        ]
+      }
+    },
+    "선교": {
+      "최근기사": {
+        "recent": [
+          {
+            "id": "선교-최근기사-0-1779108741411",
+            "title": "해외 단기 선교 활동 보고서",
+            "date": "2026년 05월 18일",
+            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C",
+            "views": 154,
+            "visitors": 376,
+            "citations": 47
+          },
+          {
+            "id": "선교-최근기사-1-1779108741411",
+            "title": "지역 사회와 함께하는 선교 비전",
+            "date": "2026년 05월 17일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84",
+            "views": 804,
+            "visitors": 361,
+            "citations": 26
+          },
+          {
+            "id": "선교-최근기사-2-1779108741411",
+            "title": "현대 선교의 새로운 패러다임",
+            "date": "2026년 05월 16일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84",
+            "views": 120,
+            "visitors": 388,
+            "citations": 47
+          }
+        ],
+        "popular": [
+          {
+            "id": "선교-최근기사-3-1779108741411",
+            "title": "선교지 언어와 문화 이해",
+            "date": "2026년 05월 15일",
+            "summary": "선교지 언어와 문화 이해에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4",
+            "views": 948,
+            "visitors": 435,
+            "citations": 14
+          },
+          {
+            "id": "선교-최근기사-1-1779108741411",
+            "title": "지역 사회와 함께하는 선교 비전",
+            "date": "2026년 05월 17일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84",
+            "views": 804,
+            "visitors": 361,
+            "citations": 26
+          },
+          {
+            "id": "선교-최근기사-4-1779108741411",
+            "title": "디지털 시대의 미디어 선교 전략",
+            "date": "2026년 05월 14일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5",
+            "views": 225,
+            "visitors": 466,
+            "citations": 32
+          }
+        ],
+        "cited": [
+          {
+            "id": "선교-최근기사-0-1779108741411",
+            "title": "해외 단기 선교 활동 보고서",
+            "date": "2026년 05월 18일",
+            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C",
+            "views": 154,
+            "visitors": 376,
+            "citations": 47
+          },
+          {
+            "id": "선교-최근기사-2-1779108741411",
+            "title": "현대 선교의 새로운 패러다임",
+            "date": "2026년 05월 16일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84",
+            "views": 120,
+            "visitors": 388,
+            "citations": 47
+          },
+          {
+            "id": "선교-최근기사-4-1779108741411",
+            "title": "디지털 시대의 미디어 선교 전략",
+            "date": "2026년 05월 14일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5",
+            "views": 225,
+            "visitors": 466,
+            "citations": 32
+          }
+        ]
+      },
+      "논문(연구보고서)": {
+        "recent": [
+          {
+            "id": "선교-논문(연구보고서)-0-1779108741411",
+            "title": "해외 단기 선교 활동 보고서 (Research Report)",
+            "date": "2026년 05월 18일",
+            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Research%20Report)",
+            "views": 135,
+            "visitors": 236,
+            "citations": 48
+          },
+          {
+            "id": "선교-논문(연구보고서)-1-1779108741411",
+            "title": "지역 사회와 함께하는 선교 비전 (Research Report)",
+            "date": "2026년 05월 17일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Research%20Report)",
+            "views": 877,
+            "visitors": 477,
+            "citations": 41
+          },
+          {
+            "id": "선교-논문(연구보고서)-2-1779108741411",
+            "title": "현대 선교의 새로운 패러다임 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Research%20Report)",
+            "views": 968,
+            "visitors": 426,
+            "citations": 45
+          }
+        ],
+        "popular": [
+          {
+            "id": "선교-논문(연구보고서)-2-1779108741411",
+            "title": "현대 선교의 새로운 패러다임 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Research%20Report)",
+            "views": 968,
+            "visitors": 426,
+            "citations": 45
+          },
+          {
+            "id": "선교-논문(연구보고서)-1-1779108741411",
+            "title": "지역 사회와 함께하는 선교 비전 (Research Report)",
+            "date": "2026년 05월 17일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Research%20Report)",
+            "views": 877,
+            "visitors": 477,
+            "citations": 41
+          },
+          {
+            "id": "선교-논문(연구보고서)-4-1779108741411",
+            "title": "디지털 시대의 미디어 선교 전략 (Research Report)",
+            "date": "2026년 05월 14일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
+            "views": 755,
+            "visitors": 380,
+            "citations": 29
+          }
+        ],
+        "cited": [
+          {
+            "id": "선교-논문(연구보고서)-0-1779108741411",
+            "title": "해외 단기 선교 활동 보고서 (Research Report)",
+            "date": "2026년 05월 18일",
+            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Research%20Report)",
+            "views": 135,
+            "visitors": 236,
+            "citations": 48
+          },
+          {
+            "id": "선교-논문(연구보고서)-2-1779108741411",
+            "title": "현대 선교의 새로운 패러다임 (Research Report)",
+            "date": "2026년 05월 16일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Research%20Report)",
+            "views": 968,
+            "visitors": 426,
+            "citations": 45
+          },
+          {
+            "id": "선교-논문(연구보고서)-1-1779108741411",
+            "title": "지역 사회와 함께하는 선교 비전 (Research Report)",
+            "date": "2026년 05월 17일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Research%20Report)",
+            "views": 877,
+            "visitors": 477,
+            "citations": 41
+          }
+        ]
+      },
+      "발표자료": {
+        "recent": [
+          {
+            "id": "선교-발표자료-0-1779108741411",
+            "title": "해외 단기 선교 활동 보고서 (Presentation)",
+            "date": "2026년 05월 18일",
+            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Presentation)",
+            "views": 151,
+            "visitors": 361,
+            "citations": 50
+          },
+          {
+            "id": "선교-발표자료-1-1779108741411",
+            "title": "지역 사회와 함께하는 선교 비전 (Presentation)",
+            "date": "2026년 05월 17일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Presentation)",
+            "views": 225,
+            "visitors": 414,
+            "citations": 20
+          },
+          {
+            "id": "선교-발표자료-2-1779108741411",
+            "title": "현대 선교의 새로운 패러다임 (Presentation)",
+            "date": "2026년 05월 16일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Presentation)",
+            "views": 211,
+            "visitors": 74,
+            "citations": 28
+          }
+        ],
+        "popular": [
+          {
+            "id": "선교-발표자료-3-1779108741411",
+            "title": "선교지 언어와 문화 이해 (Presentation)",
+            "date": "2026년 05월 15일",
+            "summary": "선교지 언어와 문화 이해에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4%20(Presentation)",
+            "views": 758,
+            "visitors": 309,
+            "citations": 5
+          },
+          {
+            "id": "선교-발표자료-4-1779108741411",
+            "title": "디지털 시대의 미디어 선교 전략 (Presentation)",
+            "date": "2026년 05월 14일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
+            "views": 655,
+            "visitors": 186,
+            "citations": 28
+          },
+          {
+            "id": "선교-발표자료-1-1779108741411",
+            "title": "지역 사회와 함께하는 선교 비전 (Presentation)",
+            "date": "2026년 05월 17일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Presentation)",
+            "views": 225,
+            "visitors": 414,
+            "citations": 20
+          }
+        ],
+        "cited": [
+          {
+            "id": "선교-발표자료-0-1779108741411",
+            "title": "해외 단기 선교 활동 보고서 (Presentation)",
+            "date": "2026년 05월 18일",
+            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Presentation)",
+            "views": 151,
+            "visitors": 361,
+            "citations": 50
+          },
+          {
+            "id": "선교-발표자료-2-1779108741411",
+            "title": "현대 선교의 새로운 패러다임 (Presentation)",
+            "date": "2026년 05월 16일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Presentation)",
+            "views": 211,
+            "visitors": 74,
+            "citations": 28
+          },
+          {
+            "id": "선교-발표자료-4-1779108741411",
+            "title": "디지털 시대의 미디어 선교 전략 (Presentation)",
+            "date": "2026년 05월 14일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
+            "views": 655,
+            "visitors": 186,
+            "citations": 28
+          }
+        ]
+      }
+    }
+  }
+}
