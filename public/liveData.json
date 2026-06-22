@@ -1,297 +1,297 @@
 {
-  "updatedAt": "2026-06-15T18:09:20.691Z",
+  "updatedAt": "2026-06-22T04:03:30.360Z",
   "data": {
     "학회": {
       "최근기사": {
         "recent": [
           {
-            "id": "학회-최근기사-0-1781546959845",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 722,
-            "visitors": 336,
-            "citations": 30
+            "id": "학회-최근기사-0-1782100860152",
+            "title": "인공지능을 활용한 교통 시스템 최적화",
+            "date": "2026년 06월 22일",
+            "summary": "인공지능을 활용한 교통 시스템 최적화에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B5%90%ED%86%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94",
+            "views": 169,
+            "visitors": 420,
+            "citations": 50
           },
           {
-            "id": "학회-최근기사-1-1781546959845",
-            "title": "Open Wilson chain numerical renormalization group approach to steady-state non-equilibrium quantum transport",
-            "summary": "The numerical renormalization group (NRG) approach was developed to identify and quantify different equilibrium regimes of quantum impurity systems (QISs) with ...",
-            "link": "http://arxiv.org/abs/2606.14635v1",
-            "date": "2026년 06월 12일",
-            "views": 218,
-            "visitors": 366,
-            "citations": 19
-          },
-          {
-            "id": "학회-최근기사-2-1781546959845",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 466,
-            "visitors": 70,
+            "id": "학회-최근기사-1-1782100860152",
+            "title": "스마트 모빌리티 최신 동향 분석",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 모빌리티 최신 동향 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EC%B5%9C%EC%8B%A0%20%EB%8F%99%ED%96%A5%20%EB%B6%84%EC%84%9D",
+            "views": 955,
+            "visitors": 254,
             "citations": 33
+          },
+          {
+            "id": "학회-최근기사-2-1782100860152",
+            "title": "자율주행 자동차의 안전성 검증 연구",
+            "date": "2026년 06월 20일",
+            "summary": "자율주행 자동차의 안전성 검증 연구에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9D%98%20%EC%95%88%EC%A0%84%EC%84%B1%20%EA%B2%80%EC%A6%9D%20%EC%97%B0%EA%B5%AC",
+            "views": 306,
+            "visitors": 93,
+            "citations": 47
           }
         ],
         "popular": [
           {
-            "id": "학회-최근기사-0-1781546959845",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 722,
-            "visitors": 336,
-            "citations": 30
-          },
-          {
-            "id": "학회-최근기사-2-1781546959845",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 466,
-            "visitors": 70,
+            "id": "학회-최근기사-1-1782100860152",
+            "title": "스마트 모빌리티 최신 동향 분석",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 모빌리티 최신 동향 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EC%B5%9C%EC%8B%A0%20%EB%8F%99%ED%96%A5%20%EB%B6%84%EC%84%9D",
+            "views": 955,
+            "visitors": 254,
             "citations": 33
           },
           {
-            "id": "학회-최근기사-1-1781546959845",
-            "title": "Open Wilson chain numerical renormalization group approach to steady-state non-equilibrium quantum transport",
-            "summary": "The numerical renormalization group (NRG) approach was developed to identify and quantify different equilibrium regimes of quantum impurity systems (QISs) with ...",
-            "link": "http://arxiv.org/abs/2606.14635v1",
-            "date": "2026년 06월 12일",
-            "views": 218,
-            "visitors": 366,
-            "citations": 19
+            "id": "학회-최근기사-4-1782100860152",
+            "title": "2026년 교통공학 학술대회 발표 논문집",
+            "date": "2026년 06월 18일",
+            "summary": "2026년 교통공학 학술대회 발표 논문집에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%EA%B5%90%ED%86%B5%EA%B3%B5%ED%95%99%20%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%85%BC%EB%AC%B8%EC%A7%91",
+            "views": 790,
+            "visitors": 465,
+            "citations": 44
+          },
+          {
+            "id": "학회-최근기사-2-1782100860152",
+            "title": "자율주행 자동차의 안전성 검증 연구",
+            "date": "2026년 06월 20일",
+            "summary": "자율주행 자동차의 안전성 검증 연구에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9D%98%20%EC%95%88%EC%A0%84%EC%84%B1%20%EA%B2%80%EC%A6%9D%20%EC%97%B0%EA%B5%AC",
+            "views": 306,
+            "visitors": 93,
+            "citations": 47
           }
         ],
         "cited": [
           {
-            "id": "학회-최근기사-3-1781546959845",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 107,
-            "visitors": 99,
-            "citations": 45
+            "id": "학회-최근기사-0-1782100860152",
+            "title": "인공지능을 활용한 교통 시스템 최적화",
+            "date": "2026년 06월 22일",
+            "summary": "인공지능을 활용한 교통 시스템 최적화에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B5%90%ED%86%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94",
+            "views": 169,
+            "visitors": 420,
+            "citations": 50
           },
           {
-            "id": "학회-최근기사-2-1781546959845",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 466,
-            "visitors": 70,
-            "citations": 33
+            "id": "학회-최근기사-2-1782100860152",
+            "title": "자율주행 자동차의 안전성 검증 연구",
+            "date": "2026년 06월 20일",
+            "summary": "자율주행 자동차의 안전성 검증 연구에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9D%98%20%EC%95%88%EC%A0%84%EC%84%B1%20%EA%B2%80%EC%A6%9D%20%EC%97%B0%EA%B5%AC",
+            "views": 306,
+            "visitors": 93,
+            "citations": 47
           },
           {
-            "id": "학회-최근기사-0-1781546959845",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 722,
-            "visitors": 336,
-            "citations": 30
+            "id": "학회-최근기사-4-1782100860152",
+            "title": "2026년 교통공학 학술대회 발표 논문집",
+            "date": "2026년 06월 18일",
+            "summary": "2026년 교통공학 학술대회 발표 논문집에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%EA%B5%90%ED%86%B5%EA%B3%B5%ED%95%99%20%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%85%BC%EB%AC%B8%EC%A7%91",
+            "views": 790,
+            "visitors": 465,
+            "citations": 44
           }
         ]
       },
       "논문(연구보고서)": {
         "recent": [
           {
-            "id": "학회-논문(연구보고서)-0-1781546959876",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 464,
-            "visitors": 187,
+            "id": "학회-논문(연구보고서)-0-1782100875152",
+            "title": "인공지능을 활용한 교통 시스템 최적화 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "인공지능을 활용한 교통 시스템 최적화에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B5%90%ED%86%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20(Research%20Report)",
+            "views": 899,
+            "visitors": 85,
             "citations": 10
           },
           {
-            "id": "학회-논문(연구보고서)-1-1781546959876",
-            "title": "Open Wilson chain numerical renormalization group approach to steady-state non-equilibrium quantum transport",
-            "summary": "The numerical renormalization group (NRG) approach was developed to identify and quantify different equilibrium regimes of quantum impurity systems (QISs) with ...",
-            "link": "http://arxiv.org/abs/2606.14635v1",
-            "date": "2026년 06월 12일",
-            "views": 503,
-            "visitors": 318,
-            "citations": 11
+            "id": "학회-논문(연구보고서)-1-1782100875152",
+            "title": "스마트 모빌리티 최신 동향 분석 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 모빌리티 최신 동향 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EC%B5%9C%EC%8B%A0%20%EB%8F%99%ED%96%A5%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 816,
+            "visitors": 466,
+            "citations": 22
           },
           {
-            "id": "학회-논문(연구보고서)-2-1781546959876",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 985,
-            "visitors": 171,
-            "citations": 45
+            "id": "학회-논문(연구보고서)-2-1782100875152",
+            "title": "자율주행 자동차의 안전성 검증 연구 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "자율주행 자동차의 안전성 검증 연구에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9D%98%20%EC%95%88%EC%A0%84%EC%84%B1%20%EA%B2%80%EC%A6%9D%20%EC%97%B0%EA%B5%AC%20(Research%20Report)",
+            "views": 105,
+            "visitors": 78,
+            "citations": 30
           }
         ],
         "popular": [
           {
-            "id": "학회-논문(연구보고서)-2-1781546959876",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 985,
-            "visitors": 171,
-            "citations": 45
+            "id": "학회-논문(연구보고서)-0-1782100875152",
+            "title": "인공지능을 활용한 교통 시스템 최적화 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "인공지능을 활용한 교통 시스템 최적화에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B5%90%ED%86%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20(Research%20Report)",
+            "views": 899,
+            "visitors": 85,
+            "citations": 10
           },
           {
-            "id": "학회-논문(연구보고서)-3-1781546959876",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 708,
-            "visitors": 240,
-            "citations": 35
+            "id": "학회-논문(연구보고서)-1-1782100875152",
+            "title": "스마트 모빌리티 최신 동향 분석 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 모빌리티 최신 동향 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EC%B5%9C%EC%8B%A0%20%EB%8F%99%ED%96%A5%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 816,
+            "visitors": 466,
+            "citations": 22
           },
           {
-            "id": "학회-논문(연구보고서)-4-1781546959876",
-            "title": "Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency",
-            "summary": "Deep reinforcement learning (DRL) offers a compelling route to decision-making for advanced autonomous vehicles (AVs), yet its trial-and-error nature makes it d...",
-            "link": "http://arxiv.org/abs/2606.14609v1",
-            "date": "2026년 06월 12일",
-            "views": 624,
-            "visitors": 354,
-            "citations": 47
+            "id": "학회-논문(연구보고서)-3-1782100875152",
+            "title": "지속가능한 도로 인프라 구축 방안 (Research Report)",
+            "date": "2026년 06월 19일",
+            "summary": "지속가능한 도로 인프라 구축 방안에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%8F%84%EB%A1%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B5%AC%EC%B6%95%20%EB%B0%A9%EC%95%88%20(Research%20Report)",
+            "views": 778,
+            "visitors": 134,
+            "citations": 25
           }
         ],
         "cited": [
           {
-            "id": "학회-논문(연구보고서)-4-1781546959876",
-            "title": "Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency",
-            "summary": "Deep reinforcement learning (DRL) offers a compelling route to decision-making for advanced autonomous vehicles (AVs), yet its trial-and-error nature makes it d...",
-            "link": "http://arxiv.org/abs/2606.14609v1",
-            "date": "2026년 06월 12일",
-            "views": 624,
-            "visitors": 354,
+            "id": "학회-논문(연구보고서)-4-1782100875152",
+            "title": "2026년 교통공학 학술대회 발표 논문집 (Research Report)",
+            "date": "2026년 06월 18일",
+            "summary": "2026년 교통공학 학술대회 발표 논문집에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%EA%B5%90%ED%86%B5%EA%B3%B5%ED%95%99%20%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%85%BC%EB%AC%B8%EC%A7%91%20(Research%20Report)",
+            "views": 104,
+            "visitors": 384,
             "citations": 47
           },
           {
-            "id": "학회-논문(연구보고서)-2-1781546959876",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 985,
-            "visitors": 171,
-            "citations": 45
+            "id": "학회-논문(연구보고서)-2-1782100875152",
+            "title": "자율주행 자동차의 안전성 검증 연구 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "자율주행 자동차의 안전성 검증 연구에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9D%98%20%EC%95%88%EC%A0%84%EC%84%B1%20%EA%B2%80%EC%A6%9D%20%EC%97%B0%EA%B5%AC%20(Research%20Report)",
+            "views": 105,
+            "visitors": 78,
+            "citations": 30
           },
           {
-            "id": "학회-논문(연구보고서)-3-1781546959876",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 708,
-            "visitors": 240,
-            "citations": 35
+            "id": "학회-논문(연구보고서)-3-1782100875152",
+            "title": "지속가능한 도로 인프라 구축 방안 (Research Report)",
+            "date": "2026년 06월 19일",
+            "summary": "지속가능한 도로 인프라 구축 방안에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%8F%84%EB%A1%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B5%AC%EC%B6%95%20%EB%B0%A9%EC%95%88%20(Research%20Report)",
+            "views": 778,
+            "visitors": 134,
+            "citations": 25
           }
         ]
       },
       "발표자료": {
         "recent": [
           {
-            "id": "학회-발표자료-0-1781546959884",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 731,
-            "visitors": 439,
+            "id": "학회-발표자료-0-1782100890154",
+            "title": "인공지능을 활용한 교통 시스템 최적화 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "인공지능을 활용한 교통 시스템 최적화에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B5%90%ED%86%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20(Presentation)",
+            "views": 846,
+            "visitors": 459,
+            "citations": 38
+          },
+          {
+            "id": "학회-발표자료-1-1782100890154",
+            "title": "스마트 모빌리티 최신 동향 분석 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 모빌리티 최신 동향 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EC%B5%9C%EC%8B%A0%20%EB%8F%99%ED%96%A5%20%EB%B6%84%EC%84%9D%20(Presentation)",
+            "views": 309,
+            "visitors": 309,
             "citations": 17
           },
           {
-            "id": "학회-발표자료-1-1781546959884",
-            "title": "Open Wilson chain numerical renormalization group approach to steady-state non-equilibrium quantum transport",
-            "summary": "The numerical renormalization group (NRG) approach was developed to identify and quantify different equilibrium regimes of quantum impurity systems (QISs) with ...",
-            "link": "http://arxiv.org/abs/2606.14635v1",
-            "date": "2026년 06월 12일",
-            "views": 234,
-            "visitors": 306,
-            "citations": 37
-          },
-          {
-            "id": "학회-발표자료-2-1781546959884",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 456,
-            "visitors": 62,
-            "citations": 44
+            "id": "학회-발표자료-2-1782100890154",
+            "title": "자율주행 자동차의 안전성 검증 연구 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "자율주행 자동차의 안전성 검증 연구에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9D%98%20%EC%95%88%EC%A0%84%EC%84%B1%20%EA%B2%80%EC%A6%9D%20%EC%97%B0%EA%B5%AC%20(Presentation)",
+            "views": 137,
+            "visitors": 362,
+            "citations": 5
           }
         ],
         "popular": [
           {
-            "id": "학회-발표자료-3-1781546959884",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 997,
-            "visitors": 159,
-            "citations": 19
+            "id": "학회-발표자료-0-1782100890154",
+            "title": "인공지능을 활용한 교통 시스템 최적화 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "인공지능을 활용한 교통 시스템 최적화에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B5%90%ED%86%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20(Presentation)",
+            "views": 846,
+            "visitors": 459,
+            "citations": 38
           },
           {
-            "id": "학회-발표자료-0-1781546959884",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 731,
-            "visitors": 439,
+            "id": "학회-발표자료-4-1782100890154",
+            "title": "2026년 교통공학 학술대회 발표 논문집 (Presentation)",
+            "date": "2026년 06월 18일",
+            "summary": "2026년 교통공학 학술대회 발표 논문집에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%EA%B5%90%ED%86%B5%EA%B3%B5%ED%95%99%20%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%85%BC%EB%AC%B8%EC%A7%91%20(Presentation)",
+            "views": 678,
+            "visitors": 220,
+            "citations": 21
+          },
+          {
+            "id": "학회-발표자료-1-1782100890154",
+            "title": "스마트 모빌리티 최신 동향 분석 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 모빌리티 최신 동향 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0%20%EC%B5%9C%EC%8B%A0%20%EB%8F%99%ED%96%A5%20%EB%B6%84%EC%84%9D%20(Presentation)",
+            "views": 309,
+            "visitors": 309,
             "citations": 17
-          },
-          {
-            "id": "학회-발표자료-2-1781546959884",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 456,
-            "visitors": 62,
-            "citations": 44
           }
         ],
         "cited": [
           {
-            "id": "학회-발표자료-2-1781546959884",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 456,
-            "visitors": 62,
-            "citations": 44
+            "id": "학회-발표자료-0-1782100890154",
+            "title": "인공지능을 활용한 교통 시스템 최적화 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "인공지능을 활용한 교통 시스템 최적화에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EA%B5%90%ED%86%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20(Presentation)",
+            "views": 846,
+            "visitors": 459,
+            "citations": 38
           },
           {
-            "id": "학회-발표자료-1-1781546959884",
-            "title": "Open Wilson chain numerical renormalization group approach to steady-state non-equilibrium quantum transport",
-            "summary": "The numerical renormalization group (NRG) approach was developed to identify and quantify different equilibrium regimes of quantum impurity systems (QISs) with ...",
-            "link": "http://arxiv.org/abs/2606.14635v1",
-            "date": "2026년 06월 12일",
-            "views": 234,
-            "visitors": 306,
-            "citations": 37
+            "id": "학회-발표자료-4-1782100890154",
+            "title": "2026년 교통공학 학술대회 발표 논문집 (Presentation)",
+            "date": "2026년 06월 18일",
+            "summary": "2026년 교통공학 학술대회 발표 논문집에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%EA%B5%90%ED%86%B5%EA%B3%B5%ED%95%99%20%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C%20%EB%B0%9C%ED%91%9C%20%EB%85%BC%EB%AC%B8%EC%A7%91%20(Presentation)",
+            "views": 678,
+            "visitors": 220,
+            "citations": 21
           },
           {
-            "id": "학회-발표자료-3-1781546959884",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 997,
-            "visitors": 159,
+            "id": "학회-발표자료-3-1782100890154",
+            "title": "지속가능한 도로 인프라 구축 방안 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "지속가능한 도로 인프라 구축 방안에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%8F%84%EB%A1%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EA%B5%AC%EC%B6%95%20%EB%B0%A9%EC%95%88%20(Presentation)",
+            "views": 136,
+            "visitors": 438,
             "citations": 19
           }
         ]
@@ -301,294 +301,294 @@
       "최근기사": {
         "recent": [
           {
-            "id": "미래공간-최근기사-0-1781546960216",
-            "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-            "summary": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newl...",
-            "link": "http://arxiv.org/abs/2606.14700v1",
-            "date": "2026년 06월 12일",
-            "views": 109,
-            "visitors": 110,
+            "id": "미래공간-최근기사-0-1782100890350",
+            "title": "메타버스 내 가상 오피스 구축 사례 분석",
+            "date": "2026년 06월 22일",
+            "summary": "메타버스 내 가상 오피스 구축 사례 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%82%B4%20%EA%B0%80%EC%83%81%20%EC%98%A4%ED%94%BC%EC%8A%A4%20%EA%B5%AC%EC%B6%95%20%EC%82%AC%EB%A1%80%20%EB%B6%84%EC%84%9D",
+            "views": 598,
+            "visitors": 276,
+            "citations": 8
+          },
+          {
+            "id": "미래공간-최근기사-1-1782100890350",
+            "title": "스마트 워크플레이스 2026 트렌드",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 워크플레이스 2026 트렌드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%202026%20%ED%8A%B8%EB%A0%8C%EB%93%9C",
+            "views": 541,
+            "visitors": 483,
+            "citations": 49
+          },
+          {
+            "id": "미래공간-최근기사-2-1782100890350",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0",
+            "views": 789,
+            "visitors": 85,
             "citations": 45
-          },
-          {
-            "id": "미래공간-최근기사-1-1781546960216",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 877,
-            "visitors": 396,
-            "citations": 17
-          },
-          {
-            "id": "미래공간-최근기사-2-1781546960216",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 296,
-            "visitors": 331,
-            "citations": 42
           }
         ],
         "popular": [
           {
-            "id": "미래공간-최근기사-1-1781546960216",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 877,
-            "visitors": 396,
-            "citations": 17
+            "id": "미래공간-최근기사-2-1782100890350",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0",
+            "views": 789,
+            "visitors": 85,
+            "citations": 45
           },
           {
-            "id": "미래공간-최근기사-4-1781546960216",
-            "title": "Impact of 21-cm foreground mitigation strategies on reionization power spectrum constraints",
-            "summary": "The 21-cm signal probes the intergalactic medium during the Epoch of Reionization (EoR) but is overwhelmed by astrophysical foregrounds orders of magnitude stro...",
-            "link": "http://arxiv.org/abs/2606.14682v1",
-            "date": "2026년 06월 12일",
-            "views": 364,
-            "visitors": 73,
-            "citations": 38
+            "id": "미래공간-최근기사-4-1782100890350",
+            "title": "미래형 주거 공간의 구현 방향",
+            "date": "2026년 06월 18일",
+            "summary": "미래형 주거 공간의 구현 방향에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%AF%B8%EB%9E%98%ED%98%95%20%EC%A3%BC%EA%B1%B0%20%EA%B3%B5%EA%B0%84%EC%9D%98%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%ED%96%A5",
+            "views": 643,
+            "visitors": 107,
+            "citations": 26
           },
           {
-            "id": "미래공간-최근기사-2-1781546960216",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 296,
-            "visitors": 331,
-            "citations": 42
+            "id": "미래공간-최근기사-0-1782100890350",
+            "title": "메타버스 내 가상 오피스 구축 사례 분석",
+            "date": "2026년 06월 22일",
+            "summary": "메타버스 내 가상 오피스 구축 사례 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%82%B4%20%EA%B0%80%EC%83%81%20%EC%98%A4%ED%94%BC%EC%8A%A4%20%EA%B5%AC%EC%B6%95%20%EC%82%AC%EB%A1%80%20%EB%B6%84%EC%84%9D",
+            "views": 598,
+            "visitors": 276,
+            "citations": 8
           }
         ],
         "cited": [
           {
-            "id": "미래공간-최근기사-0-1781546960216",
-            "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-            "summary": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newl...",
-            "link": "http://arxiv.org/abs/2606.14700v1",
-            "date": "2026년 06월 12일",
-            "views": 109,
-            "visitors": 110,
+            "id": "미래공간-최근기사-1-1782100890350",
+            "title": "스마트 워크플레이스 2026 트렌드",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 워크플레이스 2026 트렌드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%202026%20%ED%8A%B8%EB%A0%8C%EB%93%9C",
+            "views": 541,
+            "visitors": 483,
+            "citations": 49
+          },
+          {
+            "id": "미래공간-최근기사-2-1782100890350",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0",
+            "views": 789,
+            "visitors": 85,
             "citations": 45
           },
           {
-            "id": "미래공간-최근기사-2-1781546960216",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 296,
-            "visitors": 331,
-            "citations": 42
-          },
-          {
-            "id": "미래공간-최근기사-3-1781546960216",
-            "title": "Leptonic flavour transfer: a new window on flavour gauge symmetries",
-            "summary": "New flavour non-abelian gauge groups, which may arise as part of a fundamental theory of flavour, can lead to distinctive flavour-transfer processes. When restr...",
-            "link": "http://arxiv.org/abs/2606.14689v1",
-            "date": "2026년 06월 12일",
-            "views": 191,
-            "visitors": 203,
-            "citations": 40
+            "id": "미래공간-최근기사-4-1782100890350",
+            "title": "미래형 주거 공간의 구현 방향",
+            "date": "2026년 06월 18일",
+            "summary": "미래형 주거 공간의 구현 방향에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%AF%B8%EB%9E%98%ED%98%95%20%EC%A3%BC%EA%B1%B0%20%EA%B3%B5%EA%B0%84%EC%9D%98%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%ED%96%A5",
+            "views": 643,
+            "visitors": 107,
+            "citations": 26
           }
         ]
       },
       "논문(연구보고서)": {
         "recent": [
           {
-            "id": "미래공간-논문(연구보고서)-0-1781546960220",
-            "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-            "summary": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newl...",
-            "link": "http://arxiv.org/abs/2606.14700v1",
-            "date": "2026년 06월 12일",
-            "views": 270,
-            "visitors": 101,
-            "citations": 7
+            "id": "미래공간-논문(연구보고서)-0-1782100905352",
+            "title": "메타버스 내 가상 오피스 구축 사례 분석 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "메타버스 내 가상 오피스 구축 사례 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%82%B4%20%EA%B0%80%EC%83%81%20%EC%98%A4%ED%94%BC%EC%8A%A4%20%EA%B5%AC%EC%B6%95%20%EC%82%AC%EB%A1%80%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 310,
+            "visitors": 493,
+            "citations": 44
           },
           {
-            "id": "미래공간-논문(연구보고서)-1-1781546960220",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 600,
-            "visitors": 189,
-            "citations": 40
+            "id": "미래공간-논문(연구보고서)-1-1782100905352",
+            "title": "스마트 워크플레이스 2026 트렌드 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 워크플레이스 2026 트렌드에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%202026%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20(Research%20Report)",
+            "views": 391,
+            "visitors": 277,
+            "citations": 41
           },
           {
-            "id": "미래공간-논문(연구보고서)-2-1781546960220",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 418,
-            "visitors": 471,
-            "citations": 25
+            "id": "미래공간-논문(연구보고서)-2-1782100905352",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0%20(Research%20Report)",
+            "views": 230,
+            "visitors": 423,
+            "citations": 44
           }
         ],
         "popular": [
           {
-            "id": "미래공간-논문(연구보고서)-1-1781546960220",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 600,
-            "visitors": 189,
+            "id": "미래공간-논문(연구보고서)-3-1782100905352",
+            "title": "친환경 미래 도시 계획 설계 (Research Report)",
+            "date": "2026년 06월 19일",
+            "summary": "친환경 미래 도시 계획 설계에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%AF%B8%EB%9E%98%20%EB%8F%84%EC%8B%9C%20%EA%B3%84%ED%9A%8D%20%EC%84%A4%EA%B3%84%20(Research%20Report)",
+            "views": 920,
+            "visitors": 464,
             "citations": 40
           },
           {
-            "id": "미래공간-논문(연구보고서)-4-1781546960220",
-            "title": "Impact of 21-cm foreground mitigation strategies on reionization power spectrum constraints",
-            "summary": "The 21-cm signal probes the intergalactic medium during the Epoch of Reionization (EoR) but is overwhelmed by astrophysical foregrounds orders of magnitude stro...",
-            "link": "http://arxiv.org/abs/2606.14682v1",
-            "date": "2026년 06월 12일",
-            "views": 579,
-            "visitors": 188,
-            "citations": 13
+            "id": "미래공간-논문(연구보고서)-1-1782100905352",
+            "title": "스마트 워크플레이스 2026 트렌드 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 워크플레이스 2026 트렌드에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%202026%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20(Research%20Report)",
+            "views": 391,
+            "visitors": 277,
+            "citations": 41
           },
           {
-            "id": "미래공간-논문(연구보고서)-2-1781546960220",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 418,
-            "visitors": 471,
-            "citations": 25
+            "id": "미래공간-논문(연구보고서)-0-1782100905352",
+            "title": "메타버스 내 가상 오피스 구축 사례 분석 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "메타버스 내 가상 오피스 구축 사례 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%82%B4%20%EA%B0%80%EC%83%81%20%EC%98%A4%ED%94%BC%EC%8A%A4%20%EA%B5%AC%EC%B6%95%20%EC%82%AC%EB%A1%80%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 310,
+            "visitors": 493,
+            "citations": 44
           }
         ],
         "cited": [
           {
-            "id": "미래공간-논문(연구보고서)-1-1781546960220",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 600,
-            "visitors": 189,
-            "citations": 40
+            "id": "미래공간-논문(연구보고서)-4-1782100905352",
+            "title": "미래형 주거 공간의 구현 방향 (Research Report)",
+            "date": "2026년 06월 18일",
+            "summary": "미래형 주거 공간의 구현 방향에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%AF%B8%EB%9E%98%ED%98%95%20%EC%A3%BC%EA%B1%B0%20%EA%B3%B5%EA%B0%84%EC%9D%98%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%ED%96%A5%20(Research%20Report)",
+            "views": 153,
+            "visitors": 347,
+            "citations": 46
           },
           {
-            "id": "미래공간-논문(연구보고서)-2-1781546960220",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 418,
-            "visitors": 471,
-            "citations": 25
+            "id": "미래공간-논문(연구보고서)-0-1782100905352",
+            "title": "메타버스 내 가상 오피스 구축 사례 분석 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "메타버스 내 가상 오피스 구축 사례 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%82%B4%20%EA%B0%80%EC%83%81%20%EC%98%A4%ED%94%BC%EC%8A%A4%20%EA%B5%AC%EC%B6%95%20%EC%82%AC%EB%A1%80%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 310,
+            "visitors": 493,
+            "citations": 44
           },
           {
-            "id": "미래공간-논문(연구보고서)-4-1781546960220",
-            "title": "Impact of 21-cm foreground mitigation strategies on reionization power spectrum constraints",
-            "summary": "The 21-cm signal probes the intergalactic medium during the Epoch of Reionization (EoR) but is overwhelmed by astrophysical foregrounds orders of magnitude stro...",
-            "link": "http://arxiv.org/abs/2606.14682v1",
-            "date": "2026년 06월 12일",
-            "views": 579,
-            "visitors": 188,
-            "citations": 13
+            "id": "미래공간-논문(연구보고서)-2-1782100905352",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0%20(Research%20Report)",
+            "views": 230,
+            "visitors": 423,
+            "citations": 44
           }
         ]
       },
       "발표자료": {
         "recent": [
           {
-            "id": "미래공간-발표자료-0-1781546960224",
-            "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
-            "summary": "Large language models (LLMs) are widely used in text-to-image (T2I) systems, but they are typically limited to text encoding, while denoising is handled by newl...",
-            "link": "http://arxiv.org/abs/2606.14700v1",
-            "date": "2026년 06월 12일",
-            "views": 278,
-            "visitors": 500,
-            "citations": 27
+            "id": "미래공간-발표자료-0-1782100920353",
+            "title": "메타버스 내 가상 오피스 구축 사례 분석 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "메타버스 내 가상 오피스 구축 사례 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%82%B4%20%EA%B0%80%EC%83%81%20%EC%98%A4%ED%94%BC%EC%8A%A4%20%EA%B5%AC%EC%B6%95%20%EC%82%AC%EB%A1%80%20%EB%B6%84%EC%84%9D%20(Presentation)",
+            "views": 394,
+            "visitors": 134,
+            "citations": 33
           },
           {
-            "id": "미래공간-발표자료-1-1781546960224",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 913,
-            "visitors": 196,
-            "citations": 49
+            "id": "미래공간-발표자료-1-1782100920353",
+            "title": "스마트 워크플레이스 2026 트렌드 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 워크플레이스 2026 트렌드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%202026%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20(Presentation)",
+            "views": 589,
+            "visitors": 343,
+            "citations": 39
           },
           {
-            "id": "미래공간-발표자료-2-1781546960224",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 852,
-            "visitors": 464,
-            "citations": 37
+            "id": "미래공간-발표자료-2-1782100920353",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0%20(Presentation)",
+            "views": 602,
+            "visitors": 182,
+            "citations": 10
           }
         ],
         "popular": [
           {
-            "id": "미래공간-발표자료-1-1781546960224",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 913,
-            "visitors": 196,
-            "citations": 49
+            "id": "미래공간-발표자료-4-1782100920353",
+            "title": "미래형 주거 공간의 구현 방향 (Presentation)",
+            "date": "2026년 06월 18일",
+            "summary": "미래형 주거 공간의 구현 방향에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%AF%B8%EB%9E%98%ED%98%95%20%EC%A3%BC%EA%B1%B0%20%EA%B3%B5%EA%B0%84%EC%9D%98%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%ED%96%A5%20(Presentation)",
+            "views": 976,
+            "visitors": 184,
+            "citations": 5
           },
           {
-            "id": "미래공간-발표자료-2-1781546960224",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 852,
-            "visitors": 464,
-            "citations": 37
+            "id": "미래공간-발표자료-3-1782100920353",
+            "title": "친환경 미래 도시 계획 설계 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "친환경 미래 도시 계획 설계에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%AF%B8%EB%9E%98%20%EB%8F%84%EC%8B%9C%20%EA%B3%84%ED%9A%8D%20%EC%84%A4%EA%B3%84%20(Presentation)",
+            "views": 870,
+            "visitors": 391,
+            "citations": 10
           },
           {
-            "id": "미래공간-발표자료-3-1781546960224",
-            "title": "Leptonic flavour transfer: a new window on flavour gauge symmetries",
-            "summary": "New flavour non-abelian gauge groups, which may arise as part of a fundamental theory of flavour, can lead to distinctive flavour-transfer processes. When restr...",
-            "link": "http://arxiv.org/abs/2606.14689v1",
-            "date": "2026년 06월 12일",
-            "views": 720,
-            "visitors": 148,
-            "citations": 32
+            "id": "미래공간-발표자료-2-1782100920353",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0%20(Presentation)",
+            "views": 602,
+            "visitors": 182,
+            "citations": 10
           }
         ],
         "cited": [
           {
-            "id": "미래공간-발표자료-1-1781546960224",
-            "title": "Scalar dissipation anomaly and scalar-gradient scaling in turbulence: A joint velocity-scalar multifractal view",
-            "summary": "We revisit the problem of scalar dissipation anomaly and scaling of scalar gradients in passive scalar turbulence using theory and data from well-resolved direc...",
-            "link": "http://arxiv.org/abs/2606.14696v1",
-            "date": "2026년 06월 12일",
-            "views": 913,
-            "visitors": 196,
-            "citations": 49
+            "id": "미래공간-발표자료-1-1782100920353",
+            "title": "스마트 워크플레이스 2026 트렌드 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "스마트 워크플레이스 2026 트렌드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%202026%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20(Presentation)",
+            "views": 589,
+            "visitors": 343,
+            "citations": 39
           },
           {
-            "id": "미래공간-발표자료-2-1781546960224",
-            "title": "A Complexity Measure for Active Learning in Multi-group Mean Estimation",
-            "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samp...",
-            "link": "http://arxiv.org/abs/2606.14690v1",
-            "date": "2026년 06월 12일",
-            "views": 852,
-            "visitors": 464,
-            "citations": 37
-          },
-          {
-            "id": "미래공간-발표자료-4-1781546960224",
-            "title": "Impact of 21-cm foreground mitigation strategies on reionization power spectrum constraints",
-            "summary": "The 21-cm signal probes the intergalactic medium during the Epoch of Reionization (EoR) but is overwhelmed by astrophysical foregrounds orders of magnitude stro...",
-            "link": "http://arxiv.org/abs/2606.14682v1",
-            "date": "2026년 06월 12일",
-            "views": 186,
-            "visitors": 311,
+            "id": "미래공간-발표자료-0-1782100920353",
+            "title": "메타버스 내 가상 오피스 구축 사례 분석 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "메타버스 내 가상 오피스 구축 사례 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%82%B4%20%EA%B0%80%EC%83%81%20%EC%98%A4%ED%94%BC%EC%8A%A4%20%EA%B5%AC%EC%B6%95%20%EC%82%AC%EB%A1%80%20%EB%B6%84%EC%84%9D%20(Presentation)",
+            "views": 394,
+            "visitors": 134,
             "citations": 33
+          },
+          {
+            "id": "미래공간-발표자료-2-1782100920353",
+            "title": "공간 컴퓨팅과 사용자 경험 혁신 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "공간 컴퓨팅과 사용자 경험 혁신에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B3%B5%EA%B0%84%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B2%BD%ED%97%98%20%ED%98%81%EC%8B%A0%20(Presentation)",
+            "views": 602,
+            "visitors": 182,
+            "citations": 10
           }
         ]
       }
@@ -597,294 +597,294 @@
       "최근기사": {
         "recent": [
           {
-            "id": "독서-최근기사-0-1781546960224",
+            "id": "독서-최근기사-0-1782100920353",
             "title": "2026년 트렌드 코리아 분석",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "2026년 트렌드 코리아 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D",
-            "views": 413,
-            "visitors": 107,
-            "citations": 11
-          },
-          {
-            "id": "독서-최근기사-1-1781546960224",
-            "title": "AI 시대의 인문학적 사고",
-            "date": "2026년 06월 14일",
-            "summary": "AI 시대의 인문학적 사고에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0",
-            "views": 474,
-            "visitors": 130,
+            "views": 127,
+            "visitors": 88,
             "citations": 35
           },
           {
-            "id": "독서-최근기사-2-1781546960224",
+            "id": "독서-최근기사-1-1782100920353",
+            "title": "AI 시대의 인문학적 사고",
+            "date": "2026년 06월 21일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0",
+            "views": 357,
+            "visitors": 212,
+            "citations": 20
+          },
+          {
+            "id": "독서-최근기사-2-1782100920353",
             "title": "리더십과 소통의 기술",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "리더십과 소통의 기술에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0",
-            "views": 534,
-            "visitors": 242,
-            "citations": 47
+            "views": 278,
+            "visitors": 122,
+            "citations": 29
           }
         ],
         "popular": [
           {
-            "id": "독서-최근기사-3-1781546960224",
+            "id": "독서-최근기사-3-1782100920353",
             "title": "경제 불확실성을 극복하는 투자 전략",
-            "date": "2026년 06월 12일",
+            "date": "2026년 06월 19일",
             "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5",
-            "views": 778,
-            "visitors": 206,
-            "citations": 50
+            "views": 881,
+            "visitors": 180,
+            "citations": 39
           },
           {
-            "id": "독서-최근기사-2-1781546960224",
-            "title": "리더십과 소통의 기술",
-            "date": "2026년 06월 13일",
-            "summary": "리더십과 소통의 기술에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0",
+            "id": "독서-최근기사-4-1782100920353",
+            "title": "마음챙김 명상 실천 가이드",
+            "date": "2026년 06월 18일",
+            "summary": "마음챙김 명상 실천 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A7%88%EC%9D%8C%EC%B1%99%EA%B9%80%20%EB%AA%85%EC%83%81%20%EC%8B%A4%EC%B2%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C",
             "views": 534,
-            "visitors": 242,
-            "citations": 47
+            "visitors": 96,
+            "citations": 10
           },
           {
-            "id": "독서-최근기사-1-1781546960224",
+            "id": "독서-최근기사-1-1782100920353",
             "title": "AI 시대의 인문학적 사고",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "AI 시대의 인문학적 사고에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0",
-            "views": 474,
-            "visitors": 130,
-            "citations": 35
+            "views": 357,
+            "visitors": 212,
+            "citations": 20
           }
         ],
         "cited": [
           {
-            "id": "독서-최근기사-3-1781546960224",
+            "id": "독서-최근기사-3-1782100920353",
             "title": "경제 불확실성을 극복하는 투자 전략",
-            "date": "2026년 06월 12일",
+            "date": "2026년 06월 19일",
             "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5",
-            "views": 778,
-            "visitors": 206,
-            "citations": 50
+            "views": 881,
+            "visitors": 180,
+            "citations": 39
           },
           {
-            "id": "독서-최근기사-2-1781546960224",
+            "id": "독서-최근기사-0-1782100920353",
+            "title": "2026년 트렌드 코리아 분석",
+            "date": "2026년 06월 22일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D",
+            "views": 127,
+            "visitors": 88,
+            "citations": 35
+          },
+          {
+            "id": "독서-최근기사-2-1782100920353",
             "title": "리더십과 소통의 기술",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "리더십과 소통의 기술에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0",
-            "views": 534,
-            "visitors": 242,
-            "citations": 47
-          },
-          {
-            "id": "독서-최근기사-1-1781546960224",
-            "title": "AI 시대의 인문학적 사고",
-            "date": "2026년 06월 14일",
-            "summary": "AI 시대의 인문학적 사고에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0",
-            "views": 474,
-            "visitors": 130,
-            "citations": 35
+            "views": 278,
+            "visitors": 122,
+            "citations": 29
           }
         ]
       },
       "논문(연구보고서)": {
         "recent": [
           {
-            "id": "독서-논문(연구보고서)-0-1781546960224",
+            "id": "독서-논문(연구보고서)-0-1782100920353",
             "title": "2026년 트렌드 코리아 분석 (Research Report)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "2026년 트렌드 코리아 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
-            "views": 506,
-            "visitors": 387,
-            "citations": 12
+            "views": 583,
+            "visitors": 495,
+            "citations": 23
           },
           {
-            "id": "독서-논문(연구보고서)-1-1781546960224",
+            "id": "독서-논문(연구보고서)-1-1782100920353",
             "title": "AI 시대의 인문학적 사고 (Research Report)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "AI 시대의 인문학적 사고에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Research%20Report)",
-            "views": 554,
-            "visitors": 394,
-            "citations": 22
+            "views": 958,
+            "visitors": 92,
+            "citations": 39
           },
           {
-            "id": "독서-논문(연구보고서)-2-1781546960224",
+            "id": "독서-논문(연구보고서)-2-1782100920353",
             "title": "리더십과 소통의 기술 (Research Report)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "리더십과 소통의 기술에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Research%20Report)",
-            "views": 463,
-            "visitors": 246,
-            "citations": 14
+            "views": 606,
+            "visitors": 158,
+            "citations": 32
           }
         ],
         "popular": [
           {
-            "id": "독서-논문(연구보고서)-1-1781546960224",
+            "id": "독서-논문(연구보고서)-1-1782100920353",
             "title": "AI 시대의 인문학적 사고 (Research Report)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "AI 시대의 인문학적 사고에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Research%20Report)",
-            "views": 554,
-            "visitors": 394,
-            "citations": 22
+            "views": 958,
+            "visitors": 92,
+            "citations": 39
           },
           {
-            "id": "독서-논문(연구보고서)-0-1781546960224",
-            "title": "2026년 트렌드 코리아 분석 (Research Report)",
-            "date": "2026년 06월 15일",
-            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
-            "views": 506,
-            "visitors": 387,
-            "citations": 12
-          },
-          {
-            "id": "독서-논문(연구보고서)-2-1781546960224",
+            "id": "독서-논문(연구보고서)-2-1782100920353",
             "title": "리더십과 소통의 기술 (Research Report)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "리더십과 소통의 기술에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Research%20Report)",
-            "views": 463,
-            "visitors": 246,
-            "citations": 14
+            "views": 606,
+            "visitors": 158,
+            "citations": 32
+          },
+          {
+            "id": "독서-논문(연구보고서)-0-1782100920353",
+            "title": "2026년 트렌드 코리아 분석 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Research%20Report)",
+            "views": 583,
+            "visitors": 495,
+            "citations": 23
           }
         ],
         "cited": [
           {
-            "id": "독서-논문(연구보고서)-3-1781546960224",
-            "title": "경제 불확실성을 극복하는 투자 전략 (Research Report)",
-            "date": "2026년 06월 12일",
-            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
-            "views": 291,
-            "visitors": 137,
-            "citations": 40
-          },
-          {
-            "id": "독서-논문(연구보고서)-4-1781546960224",
-            "title": "마음챙김 명상 실천 가이드 (Research Report)",
-            "date": "2026년 06월 11일",
-            "summary": "마음챙김 명상 실천 가이드에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EB%A7%88%EC%9D%8C%EC%B1%99%EA%B9%80%20%EB%AA%85%EC%83%81%20%EC%8B%A4%EC%B2%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Research%20Report)",
-            "views": 396,
-            "visitors": 445,
-            "citations": 24
-          },
-          {
-            "id": "독서-논문(연구보고서)-1-1781546960224",
+            "id": "독서-논문(연구보고서)-1-1782100920353",
             "title": "AI 시대의 인문학적 사고 (Research Report)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "AI 시대의 인문학적 사고에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Research%20Report)",
-            "views": 554,
-            "visitors": 394,
-            "citations": 22
+            "views": 958,
+            "visitors": 92,
+            "citations": 39
+          },
+          {
+            "id": "독서-논문(연구보고서)-3-1782100920353",
+            "title": "경제 불확실성을 극복하는 투자 전략 (Research Report)",
+            "date": "2026년 06월 19일",
+            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
+            "views": 115,
+            "visitors": 177,
+            "citations": 34
+          },
+          {
+            "id": "독서-논문(연구보고서)-2-1782100920353",
+            "title": "리더십과 소통의 기술 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Research%20Report)",
+            "views": 606,
+            "visitors": 158,
+            "citations": 32
           }
         ]
       },
       "발표자료": {
         "recent": [
           {
-            "id": "독서-발표자료-0-1781546960224",
+            "id": "독서-발표자료-0-1782100920353",
             "title": "2026년 트렌드 코리아 분석 (Presentation)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "2026년 트렌드 코리아 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Presentation)",
-            "views": 382,
-            "visitors": 489,
-            "citations": 36
+            "views": 438,
+            "visitors": 380,
+            "citations": 8
           },
           {
-            "id": "독서-발표자료-1-1781546960224",
+            "id": "독서-발표자료-1-1782100920353",
             "title": "AI 시대의 인문학적 사고 (Presentation)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "AI 시대의 인문학적 사고에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Presentation)",
-            "views": 623,
-            "visitors": 341,
-            "citations": 43
+            "views": 137,
+            "visitors": 458,
+            "citations": 27
           },
           {
-            "id": "독서-발표자료-2-1781546960224",
+            "id": "독서-발표자료-2-1782100920353",
             "title": "리더십과 소통의 기술 (Presentation)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "리더십과 소통의 기술에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Presentation)",
-            "views": 958,
-            "visitors": 227,
-            "citations": 17
+            "views": 777,
+            "visitors": 69,
+            "citations": 44
           }
         ],
         "popular": [
           {
-            "id": "독서-발표자료-2-1781546960224",
-            "title": "리더십과 소통의 기술 (Presentation)",
-            "date": "2026년 06월 13일",
-            "summary": "리더십과 소통의 기술에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Presentation)",
-            "views": 958,
-            "visitors": 227,
+            "id": "독서-발표자료-3-1782100920353",
+            "title": "경제 불확실성을 극복하는 투자 전략 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
+            "views": 879,
+            "visitors": 179,
             "citations": 17
           },
           {
-            "id": "독서-발표자료-3-1781546960224",
-            "title": "경제 불확실성을 극복하는 투자 전략 (Presentation)",
-            "date": "2026년 06월 12일",
-            "summary": "경제 불확실성을 극복하는 투자 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EA%B2%BD%EC%A0%9C%20%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%9D%84%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%ED%88%AC%EC%9E%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
-            "views": 667,
-            "visitors": 337,
-            "citations": 11
+            "id": "독서-발표자료-2-1782100920353",
+            "title": "리더십과 소통의 기술 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Presentation)",
+            "views": 777,
+            "visitors": 69,
+            "citations": 44
           },
           {
-            "id": "독서-발표자료-1-1781546960224",
-            "title": "AI 시대의 인문학적 사고 (Presentation)",
-            "date": "2026년 06월 14일",
-            "summary": "AI 시대의 인문학적 사고에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Presentation)",
-            "views": 623,
-            "visitors": 341,
-            "citations": 43
+            "id": "독서-발표자료-4-1782100920353",
+            "title": "마음챙김 명상 실천 가이드 (Presentation)",
+            "date": "2026년 06월 18일",
+            "summary": "마음챙김 명상 실천 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A7%88%EC%9D%8C%EC%B1%99%EA%B9%80%20%EB%AA%85%EC%83%81%20%EC%8B%A4%EC%B2%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
+            "views": 552,
+            "visitors": 311,
+            "citations": 35
           }
         ],
         "cited": [
           {
-            "id": "독서-발표자료-1-1781546960224",
-            "title": "AI 시대의 인문학적 사고 (Presentation)",
-            "date": "2026년 06월 14일",
-            "summary": "AI 시대의 인문학적 사고에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Presentation)",
-            "views": 623,
-            "visitors": 341,
-            "citations": 43
+            "id": "독서-발표자료-2-1782100920353",
+            "title": "리더십과 소통의 기술 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "리더십과 소통의 기술에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%A6%AC%EB%8D%94%EC%8B%AD%EA%B3%BC%20%EC%86%8C%ED%86%B5%EC%9D%98%20%EA%B8%B0%EC%88%A0%20(Presentation)",
+            "views": 777,
+            "visitors": 69,
+            "citations": 44
           },
           {
-            "id": "독서-발표자료-0-1781546960224",
-            "title": "2026년 트렌드 코리아 분석 (Presentation)",
-            "date": "2026년 06월 15일",
-            "summary": "2026년 트렌드 코리아 분석에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=2026%EB%85%84%20%ED%8A%B8%EB%A0%8C%EB%93%9C%20%EC%BD%94%EB%A6%AC%EC%95%84%20%EB%B6%84%EC%84%9D%20(Presentation)",
-            "views": 382,
-            "visitors": 489,
-            "citations": 36
-          },
-          {
-            "id": "독서-발표자료-4-1781546960224",
+            "id": "독서-발표자료-4-1782100920353",
             "title": "마음챙김 명상 실천 가이드 (Presentation)",
-            "date": "2026년 06월 11일",
+            "date": "2026년 06월 18일",
             "summary": "마음챙김 명상 실천 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%A7%88%EC%9D%8C%EC%B1%99%EA%B9%80%20%EB%AA%85%EC%83%81%20%EC%8B%A4%EC%B2%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
-            "views": 409,
-            "visitors": 131,
-            "citations": 34
+            "views": 552,
+            "visitors": 311,
+            "citations": 35
+          },
+          {
+            "id": "독서-발표자료-1-1782100920353",
+            "title": "AI 시대의 인문학적 사고 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "AI 시대의 인문학적 사고에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EC%9D%B8%EB%AC%B8%ED%95%99%EC%A0%81%20%EC%82%AC%EA%B3%A0%20(Presentation)",
+            "views": 137,
+            "visitors": 458,
+            "citations": 27
           }
         ]
       }
@@ -893,294 +893,294 @@
       "최근기사": {
         "recent": [
           {
-            "id": "세계도로협회-최근기사-0-1781546960457",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 797,
-            "visitors": 58,
-            "citations": 40
+            "id": "세계도로협회-최근기사-0-1782100935354",
+            "title": "PIARC 세계도로대회 기술 보고서",
+            "date": "2026년 06월 22일",
+            "summary": "PIARC 세계도로대회 기술 보고서에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=PIARC%20%EC%84%B8%EA%B3%84%EB%8F%84%EB%A1%9C%EB%8C%80%ED%9A%8C%20%EA%B8%B0%EC%88%A0%20%EB%B3%B4%EA%B3%A0%EC%84%9C",
+            "views": 866,
+            "visitors": 156,
+            "citations": 25
           },
           {
-            "id": "세계도로협회-최근기사-1-1781546960457",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 430,
-            "visitors": 267,
-            "citations": 47
+            "id": "세계도로협회-최근기사-1-1782100935354",
+            "title": "탄소 중립을 위한 친환경 도로 정책",
+            "date": "2026년 06월 21일",
+            "summary": "탄소 중립을 위한 친환경 도로 정책에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%83%84%EC%86%8C%20%EC%A4%91%EB%A6%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%8F%84%EB%A1%9C%20%EC%A0%95%EC%B1%85",
+            "views": 509,
+            "visitors": 274,
+            "citations": 44
           },
           {
-            "id": "세계도로협회-최근기사-2-1781546960457",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 821,
-            "visitors": 198,
-            "citations": 40
+            "id": "세계도로협회-최근기사-2-1782100935354",
+            "title": "글로벌 교통 안전 가이드라인",
+            "date": "2026년 06월 20일",
+            "summary": "글로벌 교통 안전 가이드라인에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B5%90%ED%86%B5%20%EC%95%88%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8",
+            "views": 520,
+            "visitors": 274,
+            "citations": 10
           }
         ],
         "popular": [
           {
-            "id": "세계도로협회-최근기사-2-1781546960457",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 821,
-            "visitors": 198,
-            "citations": 40
+            "id": "세계도로협회-최근기사-0-1782100935354",
+            "title": "PIARC 세계도로대회 기술 보고서",
+            "date": "2026년 06월 22일",
+            "summary": "PIARC 세계도로대회 기술 보고서에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=PIARC%20%EC%84%B8%EA%B3%84%EB%8F%84%EB%A1%9C%EB%8C%80%ED%9A%8C%20%EA%B8%B0%EC%88%A0%20%EB%B3%B4%EA%B3%A0%EC%84%9C",
+            "views": 866,
+            "visitors": 156,
+            "citations": 25
           },
           {
-            "id": "세계도로협회-최근기사-0-1781546960457",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 797,
-            "visitors": 58,
-            "citations": 40
+            "id": "세계도로협회-최근기사-3-1782100935354",
+            "title": "겨울철 도로 유지관리 기술 동향",
+            "date": "2026년 06월 19일",
+            "summary": "겨울철 도로 유지관리 기술 동향에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%A8%EC%9A%B8%EC%B2%A0%20%EB%8F%84%EB%A1%9C%20%EC%9C%A0%EC%A7%80%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5",
+            "views": 782,
+            "visitors": 178,
+            "citations": 36
           },
           {
-            "id": "세계도로협회-최근기사-1-1781546960457",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 430,
-            "visitors": 267,
-            "citations": 47
+            "id": "세계도로협회-최근기사-2-1782100935354",
+            "title": "글로벌 교통 안전 가이드라인",
+            "date": "2026년 06월 20일",
+            "summary": "글로벌 교통 안전 가이드라인에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B5%90%ED%86%B5%20%EC%95%88%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8",
+            "views": 520,
+            "visitors": 274,
+            "citations": 10
           }
         ],
         "cited": [
           {
-            "id": "세계도로협회-최근기사-1-1781546960457",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 430,
-            "visitors": 267,
-            "citations": 47
+            "id": "세계도로협회-최근기사-1-1782100935354",
+            "title": "탄소 중립을 위한 친환경 도로 정책",
+            "date": "2026년 06월 21일",
+            "summary": "탄소 중립을 위한 친환경 도로 정책에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%83%84%EC%86%8C%20%EC%A4%91%EB%A6%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%8F%84%EB%A1%9C%20%EC%A0%95%EC%B1%85",
+            "views": 509,
+            "visitors": 274,
+            "citations": 44
           },
           {
-            "id": "세계도로협회-최근기사-3-1781546960457",
-            "title": "Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency",
-            "summary": "Deep reinforcement learning (DRL) offers a compelling route to decision-making for advanced autonomous vehicles (AVs), yet its trial-and-error nature makes it d...",
-            "link": "http://arxiv.org/abs/2606.14609v1",
-            "date": "2026년 06월 12일",
-            "views": 163,
-            "visitors": 475,
-            "citations": 42
+            "id": "세계도로협회-최근기사-3-1782100935354",
+            "title": "겨울철 도로 유지관리 기술 동향",
+            "date": "2026년 06월 19일",
+            "summary": "겨울철 도로 유지관리 기술 동향에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%A8%EC%9A%B8%EC%B2%A0%20%EB%8F%84%EB%A1%9C%20%EC%9C%A0%EC%A7%80%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5",
+            "views": 782,
+            "visitors": 178,
+            "citations": 36
           },
           {
-            "id": "세계도로협회-최근기사-0-1781546960457",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 797,
-            "visitors": 58,
-            "citations": 40
+            "id": "세계도로협회-최근기사-4-1782100935354",
+            "title": "자율주행 시대를 대비한 도로 인프라",
+            "date": "2026년 06월 18일",
+            "summary": "자율주행 시대를 대비한 도로 인프라에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%8B%9C%EB%8C%80%EB%A5%BC%20%EB%8C%80%EB%B9%84%ED%95%9C%20%EB%8F%84%EB%A1%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC",
+            "views": 225,
+            "visitors": 226,
+            "citations": 36
           }
         ]
       },
       "논문(연구보고서)": {
         "recent": [
           {
-            "id": "세계도로협회-논문(연구보고서)-0-1781546960461",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 419,
-            "visitors": 244,
-            "citations": 9
+            "id": "세계도로협회-논문(연구보고서)-0-1782100950355",
+            "title": "PIARC 세계도로대회 기술 보고서 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "PIARC 세계도로대회 기술 보고서에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=PIARC%20%EC%84%B8%EA%B3%84%EB%8F%84%EB%A1%9C%EB%8C%80%ED%9A%8C%20%EA%B8%B0%EC%88%A0%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Research%20Report)",
+            "views": 766,
+            "visitors": 500,
+            "citations": 6
           },
           {
-            "id": "세계도로협회-논문(연구보고서)-1-1781546960461",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 628,
-            "visitors": 425,
-            "citations": 50
+            "id": "세계도로협회-논문(연구보고서)-1-1782100950355",
+            "title": "탄소 중립을 위한 친환경 도로 정책 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "탄소 중립을 위한 친환경 도로 정책에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%83%84%EC%86%8C%20%EC%A4%91%EB%A6%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%8F%84%EB%A1%9C%20%EC%A0%95%EC%B1%85%20(Research%20Report)",
+            "views": 392,
+            "visitors": 247,
+            "citations": 6
           },
           {
-            "id": "세계도로협회-논문(연구보고서)-2-1781546960461",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 502,
-            "visitors": 171,
-            "citations": 16
+            "id": "세계도로협회-논문(연구보고서)-2-1782100950355",
+            "title": "글로벌 교통 안전 가이드라인 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "글로벌 교통 안전 가이드라인에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B5%90%ED%86%B5%20%EC%95%88%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8%20(Research%20Report)",
+            "views": 307,
+            "visitors": 403,
+            "citations": 23
           }
         ],
         "popular": [
           {
-            "id": "세계도로협회-논문(연구보고서)-1-1781546960461",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 628,
-            "visitors": 425,
-            "citations": 50
+            "id": "세계도로협회-논문(연구보고서)-4-1782100950355",
+            "title": "자율주행 시대를 대비한 도로 인프라 (Research Report)",
+            "date": "2026년 06월 18일",
+            "summary": "자율주행 시대를 대비한 도로 인프라에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%8B%9C%EB%8C%80%EB%A5%BC%20%EB%8C%80%EB%B9%84%ED%95%9C%20%EB%8F%84%EB%A1%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%20(Research%20Report)",
+            "views": 879,
+            "visitors": 121,
+            "citations": 17
           },
           {
-            "id": "세계도로협회-논문(연구보고서)-3-1781546960461",
-            "title": "Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency",
-            "summary": "Deep reinforcement learning (DRL) offers a compelling route to decision-making for advanced autonomous vehicles (AVs), yet its trial-and-error nature makes it d...",
-            "link": "http://arxiv.org/abs/2606.14609v1",
-            "date": "2026년 06월 12일",
-            "views": 538,
-            "visitors": 340,
-            "citations": 35
+            "id": "세계도로협회-논문(연구보고서)-0-1782100950355",
+            "title": "PIARC 세계도로대회 기술 보고서 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "PIARC 세계도로대회 기술 보고서에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=PIARC%20%EC%84%B8%EA%B3%84%EB%8F%84%EB%A1%9C%EB%8C%80%ED%9A%8C%20%EA%B8%B0%EC%88%A0%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Research%20Report)",
+            "views": 766,
+            "visitors": 500,
+            "citations": 6
           },
           {
-            "id": "세계도로협회-논문(연구보고서)-2-1781546960461",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 502,
-            "visitors": 171,
-            "citations": 16
+            "id": "세계도로협회-논문(연구보고서)-1-1782100950355",
+            "title": "탄소 중립을 위한 친환경 도로 정책 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "탄소 중립을 위한 친환경 도로 정책에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%83%84%EC%86%8C%20%EC%A4%91%EB%A6%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%8F%84%EB%A1%9C%20%EC%A0%95%EC%B1%85%20(Research%20Report)",
+            "views": 392,
+            "visitors": 247,
+            "citations": 6
           }
         ],
         "cited": [
           {
-            "id": "세계도로협회-논문(연구보고서)-1-1781546960461",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 628,
-            "visitors": 425,
-            "citations": 50
+            "id": "세계도로협회-논문(연구보고서)-2-1782100950355",
+            "title": "글로벌 교통 안전 가이드라인 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "글로벌 교통 안전 가이드라인에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B5%90%ED%86%B5%20%EC%95%88%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8%20(Research%20Report)",
+            "views": 307,
+            "visitors": 403,
+            "citations": 23
           },
           {
-            "id": "세계도로협회-논문(연구보고서)-4-1781546960461",
-            "title": "A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems",
-            "summary": "Efficient route optimization play a vital role in ensuring both safety and punctuality in railway operations. It is very crucial particularly in heterogeneous m...",
-            "link": "http://arxiv.org/abs/2606.14582v1",
-            "date": "2026년 06월 12일",
-            "views": 158,
-            "visitors": 62,
-            "citations": 50
+            "id": "세계도로협회-논문(연구보고서)-4-1782100950355",
+            "title": "자율주행 시대를 대비한 도로 인프라 (Research Report)",
+            "date": "2026년 06월 18일",
+            "summary": "자율주행 시대를 대비한 도로 인프라에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%8B%9C%EB%8C%80%EB%A5%BC%20%EB%8C%80%EB%B9%84%ED%95%9C%20%EB%8F%84%EB%A1%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%20(Research%20Report)",
+            "views": 879,
+            "visitors": 121,
+            "citations": 17
           },
           {
-            "id": "세계도로협회-논문(연구보고서)-3-1781546960461",
-            "title": "Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency",
-            "summary": "Deep reinforcement learning (DRL) offers a compelling route to decision-making for advanced autonomous vehicles (AVs), yet its trial-and-error nature makes it d...",
-            "link": "http://arxiv.org/abs/2606.14609v1",
-            "date": "2026년 06월 12일",
-            "views": 538,
-            "visitors": 340,
-            "citations": 35
+            "id": "세계도로협회-논문(연구보고서)-3-1782100950355",
+            "title": "겨울철 도로 유지관리 기술 동향 (Research Report)",
+            "date": "2026년 06월 19일",
+            "summary": "겨울철 도로 유지관리 기술 동향에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%A8%EC%9A%B8%EC%B2%A0%20%EB%8F%84%EB%A1%9C%20%EC%9C%A0%EC%A7%80%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5%20(Research%20Report)",
+            "views": 355,
+            "visitors": 465,
+            "citations": 7
           }
         ]
       },
       "발표자료": {
         "recent": [
           {
-            "id": "세계도로협회-발표자료-0-1781546960465",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 278,
-            "visitors": 72,
-            "citations": 21
+            "id": "세계도로협회-발표자료-0-1782100965356",
+            "title": "PIARC 세계도로대회 기술 보고서 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "PIARC 세계도로대회 기술 보고서에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=PIARC%20%EC%84%B8%EA%B3%84%EB%8F%84%EB%A1%9C%EB%8C%80%ED%9A%8C%20%EA%B8%B0%EC%88%A0%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Presentation)",
+            "views": 373,
+            "visitors": 374,
+            "citations": 46
           },
           {
-            "id": "세계도로협회-발표자료-1-1781546960465",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 757,
-            "visitors": 242,
-            "citations": 33
+            "id": "세계도로협회-발표자료-1-1782100965356",
+            "title": "탄소 중립을 위한 친환경 도로 정책 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "탄소 중립을 위한 친환경 도로 정책에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%83%84%EC%86%8C%20%EC%A4%91%EB%A6%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%8F%84%EB%A1%9C%20%EC%A0%95%EC%B1%85%20(Presentation)",
+            "views": 486,
+            "visitors": 494,
+            "citations": 43
           },
           {
-            "id": "세계도로협회-발표자료-2-1781546960465",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 792,
-            "visitors": 345,
-            "citations": 7
+            "id": "세계도로협회-발표자료-2-1782100965356",
+            "title": "글로벌 교통 안전 가이드라인 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "글로벌 교통 안전 가이드라인에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B5%90%ED%86%B5%20%EC%95%88%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8%20(Presentation)",
+            "views": 814,
+            "visitors": 435,
+            "citations": 28
           }
         ],
         "popular": [
           {
-            "id": "세계도로협회-발표자료-2-1781546960465",
-            "title": "Robust Network Flow Interdiction Problems with Applications to Counter-Narcotics",
-            "summary": "Interdiction problems arise in a number of application areas, including global security, supply chains, and critical infrastructure protection - the goal is inh...",
-            "link": "http://arxiv.org/abs/2606.14611v1",
-            "date": "2026년 06월 12일",
-            "views": 792,
-            "visitors": 345,
-            "citations": 7
+            "id": "세계도로협회-발표자료-4-1782100965356",
+            "title": "자율주행 시대를 대비한 도로 인프라 (Presentation)",
+            "date": "2026년 06월 18일",
+            "summary": "자율주행 시대를 대비한 도로 인프라에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%8B%9C%EB%8C%80%EB%A5%BC%20%EB%8C%80%EB%B9%84%ED%95%9C%20%EB%8F%84%EB%A1%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%20(Presentation)",
+            "views": 857,
+            "visitors": 232,
+            "citations": 6
           },
           {
-            "id": "세계도로협회-발표자료-1-1781546960465",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 757,
-            "visitors": 242,
-            "citations": 33
+            "id": "세계도로협회-발표자료-3-1782100965356",
+            "title": "겨울철 도로 유지관리 기술 동향 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "겨울철 도로 유지관리 기술 동향에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B2%A8%EC%9A%B8%EC%B2%A0%20%EB%8F%84%EB%A1%9C%20%EC%9C%A0%EC%A7%80%EA%B4%80%EB%A6%AC%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5%20(Presentation)",
+            "views": 818,
+            "visitors": 377,
+            "citations": 27
           },
           {
-            "id": "세계도로협회-발표자료-3-1781546960465",
-            "title": "Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency",
-            "summary": "Deep reinforcement learning (DRL) offers a compelling route to decision-making for advanced autonomous vehicles (AVs), yet its trial-and-error nature makes it d...",
-            "link": "http://arxiv.org/abs/2606.14609v1",
-            "date": "2026년 06월 12일",
-            "views": 437,
-            "visitors": 218,
-            "citations": 13
+            "id": "세계도로협회-발표자료-2-1782100965356",
+            "title": "글로벌 교통 안전 가이드라인 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "글로벌 교통 안전 가이드라인에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B5%90%ED%86%B5%20%EC%95%88%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8%20(Presentation)",
+            "views": 814,
+            "visitors": 435,
+            "citations": 28
           }
         ],
         "cited": [
           {
-            "id": "세계도로협회-발표자료-4-1781546960465",
-            "title": "A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems",
-            "summary": "Efficient route optimization play a vital role in ensuring both safety and punctuality in railway operations. It is very crucial particularly in heterogeneous m...",
-            "link": "http://arxiv.org/abs/2606.14582v1",
-            "date": "2026년 06월 12일",
-            "views": 342,
-            "visitors": 323,
-            "citations": 41
+            "id": "세계도로협회-발표자료-0-1782100965356",
+            "title": "PIARC 세계도로대회 기술 보고서 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "PIARC 세계도로대회 기술 보고서에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=PIARC%20%EC%84%B8%EA%B3%84%EB%8F%84%EB%A1%9C%EB%8C%80%ED%9A%8C%20%EA%B8%B0%EC%88%A0%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Presentation)",
+            "views": 373,
+            "visitors": 374,
+            "citations": 46
           },
           {
-            "id": "세계도로협회-발표자료-1-1781546960465",
-            "title": "Towards unified Geophysical Data Requirements for Magnetic Navigation (MagNav)",
-            "summary": "Magnetic Navigation (MagNav) has emerged as a vital alternative Positioning, Navigation, and Timing (PNT) solution, leveraging Earth's magnetic field for robust...",
-            "link": "http://arxiv.org/abs/2606.14623v1",
-            "date": "2026년 06월 12일",
-            "views": 757,
-            "visitors": 242,
-            "citations": 33
+            "id": "세계도로협회-발표자료-1-1782100965356",
+            "title": "탄소 중립을 위한 친환경 도로 정책 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "탄소 중립을 위한 친환경 도로 정책에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%83%84%EC%86%8C%20%EC%A4%91%EB%A6%BD%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B9%9C%ED%99%98%EA%B2%BD%20%EB%8F%84%EB%A1%9C%20%EC%A0%95%EC%B1%85%20(Presentation)",
+            "views": 486,
+            "visitors": 494,
+            "citations": 43
           },
           {
-            "id": "세계도로협회-발표자료-0-1781546960465",
-            "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
-            "summary": "Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful ins...",
-            "link": "http://arxiv.org/abs/2606.14654v1",
-            "date": "2026년 06월 12일",
-            "views": 278,
-            "visitors": 72,
-            "citations": 21
+            "id": "세계도로협회-발표자료-2-1782100965356",
+            "title": "글로벌 교통 안전 가이드라인 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "글로벌 교통 안전 가이드라인에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EA%B5%90%ED%86%B5%20%EC%95%88%EC%A0%84%20%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8%20(Presentation)",
+            "views": 814,
+            "visitors": 435,
+            "citations": 28
           }
         ]
       }
@@ -1189,294 +1189,294 @@
       "최근기사": {
         "recent": [
           {
-            "id": "여행-최근기사-0-1781546960465",
+            "id": "여행-최근기사-0-1782100965356",
             "title": "지속 가능한 생태 관광 가이드",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C",
-            "views": 347,
-            "visitors": 134,
-            "citations": 38
+            "views": 432,
+            "visitors": 177,
+            "citations": 47
           },
           {
-            "id": "여행-최근기사-1-1781546960465",
+            "id": "여행-최근기사-1-1782100965356",
             "title": "유럽 문화 탐방 기행문",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "유럽 문화 탐방 기행문에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8",
-            "views": 255,
-            "visitors": 493,
-            "citations": 29
+            "views": 748,
+            "visitors": 414,
+            "citations": 15
           },
           {
-            "id": "여행-최근기사-2-1781546960465",
+            "id": "여행-최근기사-2-1782100965356",
             "title": "소도시 매력 발굴 여행기",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "소도시 매력 발굴 여행기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0",
-            "views": 268,
-            "visitors": 198,
-            "citations": 15
+            "views": 921,
+            "visitors": 109,
+            "citations": 41
           }
         ],
         "popular": [
           {
-            "id": "여행-최근기사-4-1781546960465",
-            "title": "안전한 해외 여행을 위한 체크리스트",
-            "date": "2026년 06월 11일",
-            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8",
-            "views": 910,
-            "visitors": 354,
-            "citations": 47
-          },
-          {
-            "id": "여행-최근기사-0-1781546960465",
-            "title": "지속 가능한 생태 관광 가이드",
-            "date": "2026년 06월 15일",
-            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C",
-            "views": 347,
-            "visitors": 134,
-            "citations": 38
-          },
-          {
-            "id": "여행-최근기사-2-1781546960465",
+            "id": "여행-최근기사-2-1782100965356",
             "title": "소도시 매력 발굴 여행기",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "소도시 매력 발굴 여행기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0",
-            "views": 268,
-            "visitors": 198,
+            "views": 921,
+            "visitors": 109,
+            "citations": 41
+          },
+          {
+            "id": "여행-최근기사-4-1782100965356",
+            "title": "안전한 해외 여행을 위한 체크리스트",
+            "date": "2026년 06월 18일",
+            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8",
+            "views": 861,
+            "visitors": 266,
+            "citations": 35
+          },
+          {
+            "id": "여행-최근기사-1-1782100965356",
+            "title": "유럽 문화 탐방 기행문",
+            "date": "2026년 06월 21일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8",
+            "views": 748,
+            "visitors": 414,
             "citations": 15
           }
         ],
         "cited": [
           {
-            "id": "여행-최근기사-4-1781546960465",
-            "title": "안전한 해외 여행을 위한 체크리스트",
-            "date": "2026년 06월 11일",
-            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8",
-            "views": 910,
-            "visitors": 354,
+            "id": "여행-최근기사-0-1782100965356",
+            "title": "지속 가능한 생태 관광 가이드",
+            "date": "2026년 06월 22일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C",
+            "views": 432,
+            "visitors": 177,
             "citations": 47
           },
           {
-            "id": "여행-최근기사-0-1781546960465",
-            "title": "지속 가능한 생태 관광 가이드",
-            "date": "2026년 06월 15일",
-            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C",
-            "views": 347,
-            "visitors": 134,
-            "citations": 38
+            "id": "여행-최근기사-2-1782100965356",
+            "title": "소도시 매력 발굴 여행기",
+            "date": "2026년 06월 20일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0",
+            "views": 921,
+            "visitors": 109,
+            "citations": 41
           },
           {
-            "id": "여행-최근기사-3-1781546960465",
-            "title": "디지털 노마드를 위한 워케이션 추천지",
-            "date": "2026년 06월 12일",
-            "summary": "디지털 노마드를 위한 워케이션 추천지에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EB%85%B8%EB%A7%88%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%B6%94%EC%B2%9C%EC%A7%80",
-            "views": 169,
-            "visitors": 297,
-            "citations": 38
+            "id": "여행-최근기사-4-1782100965356",
+            "title": "안전한 해외 여행을 위한 체크리스트",
+            "date": "2026년 06월 18일",
+            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8",
+            "views": 861,
+            "visitors": 266,
+            "citations": 35
           }
         ]
       },
       "논문(연구보고서)": {
         "recent": [
           {
-            "id": "여행-논문(연구보고서)-0-1781546960465",
+            "id": "여행-논문(연구보고서)-0-1782100965356",
             "title": "지속 가능한 생태 관광 가이드 (Research Report)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Research%20Report)",
-            "views": 287,
-            "visitors": 100,
-            "citations": 17
+            "views": 896,
+            "visitors": 87,
+            "citations": 30
           },
           {
-            "id": "여행-논문(연구보고서)-1-1781546960465",
+            "id": "여행-논문(연구보고서)-1-1782100965356",
             "title": "유럽 문화 탐방 기행문 (Research Report)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "유럽 문화 탐방 기행문에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Research%20Report)",
-            "views": 724,
-            "visitors": 168,
-            "citations": 50
+            "views": 416,
+            "visitors": 137,
+            "citations": 33
           },
           {
-            "id": "여행-논문(연구보고서)-2-1781546960465",
+            "id": "여행-논문(연구보고서)-2-1782100965356",
             "title": "소도시 매력 발굴 여행기 (Research Report)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "소도시 매력 발굴 여행기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Research%20Report)",
-            "views": 893,
-            "visitors": 315,
-            "citations": 50
+            "views": 886,
+            "visitors": 386,
+            "citations": 36
           }
         ],
         "popular": [
           {
-            "id": "여행-논문(연구보고서)-2-1781546960465",
+            "id": "여행-논문(연구보고서)-0-1782100965356",
+            "title": "지속 가능한 생태 관광 가이드 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Research%20Report)",
+            "views": 896,
+            "visitors": 87,
+            "citations": 30
+          },
+          {
+            "id": "여행-논문(연구보고서)-2-1782100965356",
             "title": "소도시 매력 발굴 여행기 (Research Report)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "소도시 매력 발굴 여행기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Research%20Report)",
-            "views": 893,
-            "visitors": 315,
-            "citations": 50
+            "views": 886,
+            "visitors": 386,
+            "citations": 36
           },
           {
-            "id": "여행-논문(연구보고서)-4-1781546960465",
-            "title": "안전한 해외 여행을 위한 체크리스트 (Research Report)",
-            "date": "2026년 06월 11일",
-            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(Research%20Report)",
-            "views": 824,
-            "visitors": 183,
-            "citations": 32
-          },
-          {
-            "id": "여행-논문(연구보고서)-3-1781546960465",
+            "id": "여행-논문(연구보고서)-3-1782100965356",
             "title": "디지털 노마드를 위한 워케이션 추천지 (Research Report)",
-            "date": "2026년 06월 12일",
+            "date": "2026년 06월 19일",
             "summary": "디지털 노마드를 위한 워케이션 추천지에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EB%85%B8%EB%A7%88%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%B6%94%EC%B2%9C%EC%A7%80%20(Research%20Report)",
-            "views": 726,
-            "visitors": 108,
+            "views": 747,
+            "visitors": 319,
             "citations": 50
           }
         ],
         "cited": [
           {
-            "id": "여행-논문(연구보고서)-1-1781546960465",
-            "title": "유럽 문화 탐방 기행문 (Research Report)",
-            "date": "2026년 06월 14일",
-            "summary": "유럽 문화 탐방 기행문에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Research%20Report)",
-            "views": 724,
-            "visitors": 168,
-            "citations": 50
-          },
-          {
-            "id": "여행-논문(연구보고서)-2-1781546960465",
-            "title": "소도시 매력 발굴 여행기 (Research Report)",
-            "date": "2026년 06월 13일",
-            "summary": "소도시 매력 발굴 여행기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Research%20Report)",
-            "views": 893,
-            "visitors": 315,
-            "citations": 50
-          },
-          {
-            "id": "여행-논문(연구보고서)-3-1781546960465",
+            "id": "여행-논문(연구보고서)-3-1782100965356",
             "title": "디지털 노마드를 위한 워케이션 추천지 (Research Report)",
-            "date": "2026년 06월 12일",
+            "date": "2026년 06월 19일",
             "summary": "디지털 노마드를 위한 워케이션 추천지에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EB%85%B8%EB%A7%88%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%B6%94%EC%B2%9C%EC%A7%80%20(Research%20Report)",
-            "views": 726,
-            "visitors": 108,
+            "views": 747,
+            "visitors": 319,
             "citations": 50
+          },
+          {
+            "id": "여행-논문(연구보고서)-2-1782100965356",
+            "title": "소도시 매력 발굴 여행기 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Research%20Report)",
+            "views": 886,
+            "visitors": 386,
+            "citations": 36
+          },
+          {
+            "id": "여행-논문(연구보고서)-1-1782100965356",
+            "title": "유럽 문화 탐방 기행문 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "유럽 문화 탐방 기행문에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Research%20Report)",
+            "views": 416,
+            "visitors": 137,
+            "citations": 33
           }
         ]
       },
       "발표자료": {
         "recent": [
           {
-            "id": "여행-발표자료-0-1781546960465",
+            "id": "여행-발표자료-0-1782100965356",
             "title": "지속 가능한 생태 관광 가이드 (Presentation)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
-            "views": 410,
-            "visitors": 186,
-            "citations": 49
+            "views": 430,
+            "visitors": 118,
+            "citations": 31
           },
           {
-            "id": "여행-발표자료-1-1781546960465",
+            "id": "여행-발표자료-1-1782100965356",
             "title": "유럽 문화 탐방 기행문 (Presentation)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "유럽 문화 탐방 기행문에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Presentation)",
-            "views": 793,
-            "visitors": 63,
-            "citations": 36
+            "views": 996,
+            "visitors": 466,
+            "citations": 20
           },
           {
-            "id": "여행-발표자료-2-1781546960465",
+            "id": "여행-발표자료-2-1782100965356",
             "title": "소도시 매력 발굴 여행기 (Presentation)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "소도시 매력 발굴 여행기에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Presentation)",
-            "views": 358,
-            "visitors": 348,
-            "citations": 13
+            "views": 245,
+            "visitors": 117,
+            "citations": 44
           }
         ],
         "popular": [
           {
-            "id": "여행-발표자료-1-1781546960465",
+            "id": "여행-발표자료-1-1782100965356",
             "title": "유럽 문화 탐방 기행문 (Presentation)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "유럽 문화 탐방 기행문에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Presentation)",
-            "views": 793,
-            "visitors": 63,
-            "citations": 36
+            "views": 996,
+            "visitors": 466,
+            "citations": 20
           },
           {
-            "id": "여행-발표자료-4-1781546960465",
-            "title": "안전한 해외 여행을 위한 체크리스트 (Presentation)",
-            "date": "2026년 06월 11일",
-            "summary": "안전한 해외 여행을 위한 체크리스트에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%95%88%EC%A0%84%ED%95%9C%20%ED%95%B4%EC%99%B8%20%EC%97%AC%ED%96%89%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8%20(Presentation)",
-            "views": 464,
-            "visitors": 126,
-            "citations": 13
+            "id": "여행-발표자료-3-1782100965356",
+            "title": "디지털 노마드를 위한 워케이션 추천지 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "디지털 노마드를 위한 워케이션 추천지에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EB%85%B8%EB%A7%88%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%B6%94%EC%B2%9C%EC%A7%80%20(Presentation)",
+            "views": 825,
+            "visitors": 55,
+            "citations": 48
           },
           {
-            "id": "여행-발표자료-0-1781546960465",
+            "id": "여행-발표자료-0-1782100965356",
             "title": "지속 가능한 생태 관광 가이드 (Presentation)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
-            "views": 410,
-            "visitors": 186,
-            "citations": 49
+            "views": 430,
+            "visitors": 118,
+            "citations": 31
           }
         ],
         "cited": [
           {
-            "id": "여행-발표자료-0-1781546960465",
-            "title": "지속 가능한 생태 관광 가이드 (Presentation)",
-            "date": "2026년 06월 15일",
-            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
-            "views": 410,
-            "visitors": 186,
-            "citations": 49
-          },
-          {
-            "id": "여행-발표자료-1-1781546960465",
-            "title": "유럽 문화 탐방 기행문 (Presentation)",
-            "date": "2026년 06월 14일",
-            "summary": "유럽 문화 탐방 기행문에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%9C%A0%EB%9F%BD%20%EB%AC%B8%ED%99%94%20%ED%83%90%EB%B0%A9%20%EA%B8%B0%ED%96%89%EB%AC%B8%20(Presentation)",
-            "views": 793,
-            "visitors": 63,
-            "citations": 36
-          },
-          {
-            "id": "여행-발표자료-3-1781546960465",
+            "id": "여행-발표자료-3-1782100965356",
             "title": "디지털 노마드를 위한 워케이션 추천지 (Presentation)",
-            "date": "2026년 06월 12일",
+            "date": "2026년 06월 19일",
             "summary": "디지털 노마드를 위한 워케이션 추천지에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EB%85%B8%EB%A7%88%EB%93%9C%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9B%8C%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%B6%94%EC%B2%9C%EC%A7%80%20(Presentation)",
-            "views": 219,
-            "visitors": 92,
-            "citations": 17
+            "views": 825,
+            "visitors": 55,
+            "citations": 48
+          },
+          {
+            "id": "여행-발표자료-2-1782100965356",
+            "title": "소도시 매력 발굴 여행기 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "소도시 매력 발굴 여행기에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%86%8C%EB%8F%84%EC%8B%9C%20%EB%A7%A4%EB%A0%A5%20%EB%B0%9C%EA%B5%B4%20%EC%97%AC%ED%96%89%EA%B8%B0%20(Presentation)",
+            "views": 245,
+            "visitors": 117,
+            "citations": 44
+          },
+          {
+            "id": "여행-발표자료-0-1782100965356",
+            "title": "지속 가능한 생태 관광 가이드 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "지속 가능한 생태 관광 가이드에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%86%8D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%EC%83%9D%ED%83%9C%20%EA%B4%80%EA%B4%91%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(Presentation)",
+            "views": 430,
+            "visitors": 118,
+            "citations": 31
           }
         ]
       }
@@ -1485,294 +1485,294 @@
       "최근기사": {
         "recent": [
           {
-            "id": "언어-최근기사-0-1781546960683",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 638,
-            "visitors": 487,
-            "citations": 13
+            "id": "언어-최근기사-0-1782100980358",
+            "title": "효과적인 비즈니스 영어 프레젠테이션",
+            "date": "2026년 06월 22일",
+            "summary": "효과적인 비즈니스 영어 프레젠테이션에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%98%81%EC%96%B4%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98",
+            "views": 422,
+            "visitors": 171,
+            "citations": 38
           },
           {
-            "id": "언어-최근기사-1-1781546960683",
-            "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
-            "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a cha...",
-            "link": "http://arxiv.org/abs/2606.14695v1",
-            "date": "2026년 06월 12일",
-            "views": 315,
-            "visitors": 161,
-            "citations": 18
+            "id": "언어-최근기사-1-1782100980358",
+            "title": "다문화 사회의 언어 교환 프로그램",
+            "date": "2026년 06월 21일",
+            "summary": "다문화 사회의 언어 교환 프로그램에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%82%AC%ED%9A%8C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EA%B5%90%ED%99%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8",
+            "views": 630,
+            "visitors": 233,
+            "citations": 7
           },
           {
-            "id": "언어-최근기사-2-1781546960683",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 929,
-            "visitors": 181,
-            "citations": 23
+            "id": "언어-최근기사-2-1782100980358",
+            "title": "스페인어 기초 회화 마스터하기",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0",
+            "views": 660,
+            "visitors": 368,
+            "citations": 19
           }
         ],
         "popular": [
           {
-            "id": "언어-최근기사-2-1781546960683",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 929,
-            "visitors": 181,
-            "citations": 23
+            "id": "언어-최근기사-3-1782100980358",
+            "title": "AI 번역 기술의 발전과 한계",
+            "date": "2026년 06월 19일",
+            "summary": "AI 번역 기술의 발전과 한계에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EB%B2%88%EC%97%AD%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EB%B0%9C%EC%A0%84%EA%B3%BC%20%ED%95%9C%EA%B3%84",
+            "views": 927,
+            "visitors": 195,
+            "citations": 34
           },
           {
-            "id": "언어-최근기사-4-1781546960683",
-            "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
-            "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would va...",
-            "link": "http://arxiv.org/abs/2606.14688v1",
-            "date": "2026년 06월 12일",
-            "views": 902,
-            "visitors": 77,
-            "citations": 20
-          },
-          {
-            "id": "언어-최근기사-0-1781546960683",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 638,
-            "visitors": 487,
+            "id": "언어-최근기사-4-1782100980358",
+            "title": "언어 학습을 위한 게이미피케이션 전략",
+            "date": "2026년 06월 18일",
+            "summary": "언어 학습을 위한 게이미피케이션 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%96%B8%EC%96%B4%20%ED%95%99%EC%8A%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B2%8C%EC%9D%B4%EB%AF%B8%ED%94%BC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A0%84%EB%9E%B5",
+            "views": 862,
+            "visitors": 495,
             "citations": 13
+          },
+          {
+            "id": "언어-최근기사-2-1782100980358",
+            "title": "스페인어 기초 회화 마스터하기",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0",
+            "views": 660,
+            "visitors": 368,
+            "citations": 19
           }
         ],
         "cited": [
           {
-            "id": "언어-최근기사-3-1781546960683",
-            "title": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
-            "summary": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to...",
-            "link": "http://arxiv.org/abs/2606.14691v1",
-            "date": "2026년 06월 12일",
-            "views": 500,
-            "visitors": 490,
-            "citations": 45
+            "id": "언어-최근기사-0-1782100980358",
+            "title": "효과적인 비즈니스 영어 프레젠테이션",
+            "date": "2026년 06월 22일",
+            "summary": "효과적인 비즈니스 영어 프레젠테이션에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%98%81%EC%96%B4%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98",
+            "views": 422,
+            "visitors": 171,
+            "citations": 38
           },
           {
-            "id": "언어-최근기사-2-1781546960683",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 929,
-            "visitors": 181,
-            "citations": 23
+            "id": "언어-최근기사-3-1782100980358",
+            "title": "AI 번역 기술의 발전과 한계",
+            "date": "2026년 06월 19일",
+            "summary": "AI 번역 기술의 발전과 한계에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EB%B2%88%EC%97%AD%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EB%B0%9C%EC%A0%84%EA%B3%BC%20%ED%95%9C%EA%B3%84",
+            "views": 927,
+            "visitors": 195,
+            "citations": 34
           },
           {
-            "id": "언어-최근기사-4-1781546960683",
-            "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
-            "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would va...",
-            "link": "http://arxiv.org/abs/2606.14688v1",
-            "date": "2026년 06월 12일",
-            "views": 902,
-            "visitors": 77,
-            "citations": 20
+            "id": "언어-최근기사-2-1782100980358",
+            "title": "스페인어 기초 회화 마스터하기",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0",
+            "views": 660,
+            "visitors": 368,
+            "citations": 19
           }
         ]
       },
       "논문(연구보고서)": {
         "recent": [
           {
-            "id": "언어-논문(연구보고서)-0-1781546960687",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 776,
-            "visitors": 372,
+            "id": "언어-논문(연구보고서)-0-1782100995358",
+            "title": "효과적인 비즈니스 영어 프레젠테이션 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "효과적인 비즈니스 영어 프레젠테이션에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%98%81%EC%96%B4%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%20(Research%20Report)",
+            "views": 888,
+            "visitors": 488,
+            "citations": 23
+          },
+          {
+            "id": "언어-논문(연구보고서)-1-1782100995358",
+            "title": "다문화 사회의 언어 교환 프로그램 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "다문화 사회의 언어 교환 프로그램에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%82%AC%ED%9A%8C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EA%B5%90%ED%99%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20(Research%20Report)",
+            "views": 737,
+            "visitors": 346,
             "citations": 40
           },
           {
-            "id": "언어-논문(연구보고서)-1-1781546960687",
-            "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
-            "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a cha...",
-            "link": "http://arxiv.org/abs/2606.14695v1",
-            "date": "2026년 06월 12일",
-            "views": 441,
-            "visitors": 210,
-            "citations": 34
-          },
-          {
-            "id": "언어-논문(연구보고서)-2-1781546960687",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 715,
-            "visitors": 359,
-            "citations": 44
+            "id": "언어-논문(연구보고서)-2-1782100995358",
+            "title": "스페인어 기초 회화 마스터하기 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0%20(Research%20Report)",
+            "views": 181,
+            "visitors": 77,
+            "citations": 42
           }
         ],
         "popular": [
           {
-            "id": "언어-논문(연구보고서)-0-1781546960687",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 776,
-            "visitors": 372,
+            "id": "언어-논문(연구보고서)-0-1782100995358",
+            "title": "효과적인 비즈니스 영어 프레젠테이션 (Research Report)",
+            "date": "2026년 06월 22일",
+            "summary": "효과적인 비즈니스 영어 프레젠테이션에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%98%81%EC%96%B4%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%20(Research%20Report)",
+            "views": 888,
+            "visitors": 488,
+            "citations": 23
+          },
+          {
+            "id": "언어-논문(연구보고서)-1-1782100995358",
+            "title": "다문화 사회의 언어 교환 프로그램 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "다문화 사회의 언어 교환 프로그램에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%82%AC%ED%9A%8C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EA%B5%90%ED%99%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20(Research%20Report)",
+            "views": 737,
+            "visitors": 346,
             "citations": 40
           },
           {
-            "id": "언어-논문(연구보고서)-2-1781546960687",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 715,
-            "visitors": 359,
-            "citations": 44
-          },
-          {
-            "id": "언어-논문(연구보고서)-3-1781546960687",
-            "title": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
-            "summary": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to...",
-            "link": "http://arxiv.org/abs/2606.14691v1",
-            "date": "2026년 06월 12일",
-            "views": 653,
-            "visitors": 425,
-            "citations": 44
+            "id": "언어-논문(연구보고서)-4-1782100995358",
+            "title": "언어 학습을 위한 게이미피케이션 전략 (Research Report)",
+            "date": "2026년 06월 18일",
+            "summary": "언어 학습을 위한 게이미피케이션 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%96%B8%EC%96%B4%20%ED%95%99%EC%8A%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B2%8C%EC%9D%B4%EB%AF%B8%ED%94%BC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
+            "views": 557,
+            "visitors": 111,
+            "citations": 25
           }
         ],
         "cited": [
           {
-            "id": "언어-논문(연구보고서)-2-1781546960687",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 715,
-            "visitors": 359,
-            "citations": 44
+            "id": "언어-논문(연구보고서)-2-1782100995358",
+            "title": "스페인어 기초 회화 마스터하기 (Research Report)",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0%20(Research%20Report)",
+            "views": 181,
+            "visitors": 77,
+            "citations": 42
           },
           {
-            "id": "언어-논문(연구보고서)-3-1781546960687",
-            "title": "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
-            "summary": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to...",
-            "link": "http://arxiv.org/abs/2606.14691v1",
-            "date": "2026년 06월 12일",
-            "views": 653,
-            "visitors": 425,
-            "citations": 44
-          },
-          {
-            "id": "언어-논문(연구보고서)-0-1781546960687",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 776,
-            "visitors": 372,
+            "id": "언어-논문(연구보고서)-1-1782100995358",
+            "title": "다문화 사회의 언어 교환 프로그램 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "다문화 사회의 언어 교환 프로그램에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%82%AC%ED%9A%8C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EA%B5%90%ED%99%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20(Research%20Report)",
+            "views": 737,
+            "visitors": 346,
             "citations": 40
+          },
+          {
+            "id": "언어-논문(연구보고서)-4-1782100995358",
+            "title": "언어 학습을 위한 게이미피케이션 전략 (Research Report)",
+            "date": "2026년 06월 18일",
+            "summary": "언어 학습을 위한 게이미피케이션 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%96%B8%EC%96%B4%20%ED%95%99%EC%8A%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B2%8C%EC%9D%B4%EB%AF%B8%ED%94%BC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
+            "views": 557,
+            "visitors": 111,
+            "citations": 25
           }
         ]
       },
       "발표자료": {
         "recent": [
           {
-            "id": "언어-발표자료-0-1781546960691",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 695,
-            "visitors": 242,
-            "citations": 36
+            "id": "언어-발표자료-0-1782101010360",
+            "title": "효과적인 비즈니스 영어 프레젠테이션 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "효과적인 비즈니스 영어 프레젠테이션에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%98%81%EC%96%B4%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%20(Presentation)",
+            "views": 807,
+            "visitors": 485,
+            "citations": 29
           },
           {
-            "id": "언어-발표자료-1-1781546960691",
-            "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
-            "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a cha...",
-            "link": "http://arxiv.org/abs/2606.14695v1",
-            "date": "2026년 06월 12일",
-            "views": 282,
-            "visitors": 443,
-            "citations": 44
+            "id": "언어-발표자료-1-1782101010360",
+            "title": "다문화 사회의 언어 교환 프로그램 (Presentation)",
+            "date": "2026년 06월 21일",
+            "summary": "다문화 사회의 언어 교환 프로그램에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%8B%A4%EB%AC%B8%ED%99%94%20%EC%82%AC%ED%9A%8C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EA%B5%90%ED%99%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20(Presentation)",
+            "views": 180,
+            "visitors": 462,
+            "citations": 23
           },
           {
-            "id": "언어-발표자료-2-1781546960691",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 922,
-            "visitors": 287,
-            "citations": 15
+            "id": "언어-발표자료-2-1782101010360",
+            "title": "스페인어 기초 회화 마스터하기 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0%20(Presentation)",
+            "views": 942,
+            "visitors": 296,
+            "citations": 29
           }
         ],
         "popular": [
           {
-            "id": "언어-발표자료-2-1781546960691",
-            "title": "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
-            "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. ...",
-            "link": "http://arxiv.org/abs/2606.14694v1",
-            "date": "2026년 06월 12일",
-            "views": 922,
-            "visitors": 287,
-            "citations": 15
+            "id": "언어-발표자료-2-1782101010360",
+            "title": "스페인어 기초 회화 마스터하기 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0%20(Presentation)",
+            "views": 942,
+            "visitors": 296,
+            "citations": 29
           },
           {
-            "id": "언어-발표자료-4-1781546960691",
-            "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
-            "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would va...",
-            "link": "http://arxiv.org/abs/2606.14688v1",
-            "date": "2026년 06월 12일",
-            "views": 861,
-            "visitors": 149,
-            "citations": 20
+            "id": "언어-발표자료-0-1782101010360",
+            "title": "효과적인 비즈니스 영어 프레젠테이션 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "효과적인 비즈니스 영어 프레젠테이션에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%98%81%EC%96%B4%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%20(Presentation)",
+            "views": 807,
+            "visitors": 485,
+            "citations": 29
           },
           {
-            "id": "언어-발표자료-0-1781546960691",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 695,
-            "visitors": 242,
-            "citations": 36
+            "id": "언어-발표자료-4-1782101010360",
+            "title": "언어 학습을 위한 게이미피케이션 전략 (Presentation)",
+            "date": "2026년 06월 18일",
+            "summary": "언어 학습을 위한 게이미피케이션 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%96%B8%EC%96%B4%20%ED%95%99%EC%8A%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B2%8C%EC%9D%B4%EB%AF%B8%ED%94%BC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%A0%84%EB%9E%B5%20(Presentation)",
+            "views": 600,
+            "visitors": 217,
+            "citations": 12
           }
         ],
         "cited": [
           {
-            "id": "언어-발표자료-1-1781546960691",
-            "title": "Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
-            "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a cha...",
-            "link": "http://arxiv.org/abs/2606.14695v1",
-            "date": "2026년 06월 12일",
-            "views": 282,
-            "visitors": 443,
-            "citations": 44
+            "id": "언어-발표자료-0-1782101010360",
+            "title": "효과적인 비즈니스 영어 프레젠테이션 (Presentation)",
+            "date": "2026년 06월 22일",
+            "summary": "효과적인 비즈니스 영어 프레젠테이션에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EC%98%81%EC%96%B4%20%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%20(Presentation)",
+            "views": 807,
+            "visitors": 485,
+            "citations": 29
           },
           {
-            "id": "언어-발표자료-0-1781546960691",
-            "title": "Gaze Heads: How VLMs Look at What They Describe",
-            "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this...",
-            "link": "http://arxiv.org/abs/2606.14703v1",
-            "date": "2026년 06월 12일",
-            "views": 695,
-            "visitors": 242,
-            "citations": 36
+            "id": "언어-발표자료-2-1782101010360",
+            "title": "스페인어 기초 회화 마스터하기 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "스페인어 기초 회화 마스터하기에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%96%B4%20%EA%B8%B0%EC%B4%88%20%ED%9A%8C%ED%99%94%20%EB%A7%88%EC%8A%A4%ED%84%B0%ED%95%98%EA%B8%B0%20(Presentation)",
+            "views": 942,
+            "visitors": 296,
+            "citations": 29
           },
           {
-            "id": "언어-발표자료-4-1781546960691",
-            "title": "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
-            "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would va...",
-            "link": "http://arxiv.org/abs/2606.14688v1",
-            "date": "2026년 06월 12일",
-            "views": 861,
-            "visitors": 149,
-            "citations": 20
+            "id": "언어-발표자료-3-1782101010360",
+            "title": "AI 번역 기술의 발전과 한계 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "AI 번역 기술의 발전과 한계에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=AI%20%EB%B2%88%EC%97%AD%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EB%B0%9C%EC%A0%84%EA%B3%BC%20%ED%95%9C%EA%B3%84%20(Presentation)",
+            "views": 599,
+            "visitors": 79,
+            "citations": 26
           }
         ]
       }
@@ -1781,294 +1781,294 @@
       "최근기사": {
         "recent": [
           {
-            "id": "선교-최근기사-0-1781546960691",
+            "id": "선교-최근기사-0-1782101010360",
             "title": "해외 단기 선교 활동 보고서",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "해외 단기 선교 활동 보고서에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C",
-            "views": 656,
-            "visitors": 436,
-            "citations": 34
+            "views": 240,
+            "visitors": 281,
+            "citations": 6
           },
           {
-            "id": "선교-최근기사-1-1781546960691",
+            "id": "선교-최근기사-1-1782101010360",
             "title": "지역 사회와 함께하는 선교 비전",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84",
-            "views": 152,
-            "visitors": 239,
-            "citations": 35
+            "views": 110,
+            "visitors": 394,
+            "citations": 36
           },
           {
-            "id": "선교-최근기사-2-1781546960691",
+            "id": "선교-최근기사-2-1782101010360",
             "title": "현대 선교의 새로운 패러다임",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "현대 선교의 새로운 패러다임에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84",
-            "views": 736,
-            "visitors": 487,
-            "citations": 6
+            "views": 145,
+            "visitors": 71,
+            "citations": 35
           }
         ],
         "popular": [
           {
-            "id": "선교-최근기사-3-1781546960691",
+            "id": "선교-최근기사-3-1782101010360",
             "title": "선교지 언어와 문화 이해",
-            "date": "2026년 06월 12일",
+            "date": "2026년 06월 19일",
             "summary": "선교지 언어와 문화 이해에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4",
-            "views": 985,
-            "visitors": 339,
-            "citations": 25
+            "views": 945,
+            "visitors": 471,
+            "citations": 27
           },
           {
-            "id": "선교-최근기사-4-1781546960691",
+            "id": "선교-최근기사-4-1782101010360",
             "title": "디지털 시대의 미디어 선교 전략",
-            "date": "2026년 06월 11일",
+            "date": "2026년 06월 18일",
             "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5",
-            "views": 956,
-            "visitors": 279,
-            "citations": 10
+            "views": 884,
+            "visitors": 484,
+            "citations": 47
           },
           {
-            "id": "선교-최근기사-2-1781546960691",
-            "title": "현대 선교의 새로운 패러다임",
-            "date": "2026년 06월 13일",
-            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84",
-            "views": 736,
-            "visitors": 487,
+            "id": "선교-최근기사-0-1782101010360",
+            "title": "해외 단기 선교 활동 보고서",
+            "date": "2026년 06월 22일",
+            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C",
+            "views": 240,
+            "visitors": 281,
             "citations": 6
           }
         ],
         "cited": [
           {
-            "id": "선교-최근기사-1-1781546960691",
+            "id": "선교-최근기사-4-1782101010360",
+            "title": "디지털 시대의 미디어 선교 전략",
+            "date": "2026년 06월 18일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5",
+            "views": 884,
+            "visitors": 484,
+            "citations": 47
+          },
+          {
+            "id": "선교-최근기사-1-1782101010360",
             "title": "지역 사회와 함께하는 선교 비전",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84",
-            "views": 152,
-            "visitors": 239,
+            "views": 110,
+            "visitors": 394,
+            "citations": 36
+          },
+          {
+            "id": "선교-최근기사-2-1782101010360",
+            "title": "현대 선교의 새로운 패러다임",
+            "date": "2026년 06월 20일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84",
+            "views": 145,
+            "visitors": 71,
             "citations": 35
-          },
-          {
-            "id": "선교-최근기사-0-1781546960691",
-            "title": "해외 단기 선교 활동 보고서",
-            "date": "2026년 06월 15일",
-            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C",
-            "views": 656,
-            "visitors": 436,
-            "citations": 34
-          },
-          {
-            "id": "선교-최근기사-3-1781546960691",
-            "title": "선교지 언어와 문화 이해",
-            "date": "2026년 06월 12일",
-            "summary": "선교지 언어와 문화 이해에 대한 상세한 최근기사 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4",
-            "views": 985,
-            "visitors": 339,
-            "citations": 25
           }
         ]
       },
       "논문(연구보고서)": {
         "recent": [
           {
-            "id": "선교-논문(연구보고서)-0-1781546960691",
+            "id": "선교-논문(연구보고서)-0-1782101010360",
             "title": "해외 단기 선교 활동 보고서 (Research Report)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "해외 단기 선교 활동 보고서에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Research%20Report)",
-            "views": 686,
-            "visitors": 271,
-            "citations": 48
+            "views": 476,
+            "visitors": 157,
+            "citations": 17
           },
           {
-            "id": "선교-논문(연구보고서)-1-1781546960691",
+            "id": "선교-논문(연구보고서)-1-1782101010360",
             "title": "지역 사회와 함께하는 선교 비전 (Research Report)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Research%20Report)",
-            "views": 253,
-            "visitors": 215,
-            "citations": 28
+            "views": 448,
+            "visitors": 148,
+            "citations": 32
           },
           {
-            "id": "선교-논문(연구보고서)-2-1781546960691",
+            "id": "선교-논문(연구보고서)-2-1782101010360",
             "title": "현대 선교의 새로운 패러다임 (Research Report)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "현대 선교의 새로운 패러다임에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Research%20Report)",
-            "views": 798,
-            "visitors": 307,
-            "citations": 40
+            "views": 109,
+            "visitors": 219,
+            "citations": 17
           }
         ],
         "popular": [
           {
-            "id": "선교-논문(연구보고서)-4-1781546960691",
+            "id": "선교-논문(연구보고서)-4-1782101010360",
             "title": "디지털 시대의 미디어 선교 전략 (Research Report)",
-            "date": "2026년 06월 11일",
+            "date": "2026년 06월 18일",
             "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
-            "views": 872,
-            "visitors": 475,
-            "citations": 22
+            "views": 581,
+            "visitors": 467,
+            "citations": 44
           },
           {
-            "id": "선교-논문(연구보고서)-2-1781546960691",
-            "title": "현대 선교의 새로운 패러다임 (Research Report)",
-            "date": "2026년 06월 13일",
-            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Research%20Report)",
-            "views": 798,
-            "visitors": 307,
-            "citations": 40
-          },
-          {
-            "id": "선교-논문(연구보고서)-0-1781546960691",
+            "id": "선교-논문(연구보고서)-0-1782101010360",
             "title": "해외 단기 선교 활동 보고서 (Research Report)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "해외 단기 선교 활동 보고서에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Research%20Report)",
-            "views": 686,
-            "visitors": 271,
-            "citations": 48
+            "views": 476,
+            "visitors": 157,
+            "citations": 17
+          },
+          {
+            "id": "선교-논문(연구보고서)-1-1782101010360",
+            "title": "지역 사회와 함께하는 선교 비전 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Research%20Report)",
+            "views": 448,
+            "visitors": 148,
+            "citations": 32
           }
         ],
         "cited": [
           {
-            "id": "선교-논문(연구보고서)-0-1781546960691",
-            "title": "해외 단기 선교 활동 보고서 (Research Report)",
-            "date": "2026년 06월 15일",
-            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Research%20Report)",
-            "views": 686,
-            "visitors": 271,
-            "citations": 48
+            "id": "선교-논문(연구보고서)-4-1782101010360",
+            "title": "디지털 시대의 미디어 선교 전략 (Research Report)",
+            "date": "2026년 06월 18일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Research%20Report)",
+            "views": 581,
+            "visitors": 467,
+            "citations": 44
           },
           {
-            "id": "선교-논문(연구보고서)-3-1781546960691",
+            "id": "선교-논문(연구보고서)-3-1782101010360",
             "title": "선교지 언어와 문화 이해 (Research Report)",
-            "date": "2026년 06월 12일",
+            "date": "2026년 06월 19일",
             "summary": "선교지 언어와 문화 이해에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4%20(Research%20Report)",
-            "views": 525,
-            "visitors": 407,
-            "citations": 46
+            "views": 207,
+            "visitors": 234,
+            "citations": 38
           },
           {
-            "id": "선교-논문(연구보고서)-2-1781546960691",
-            "title": "현대 선교의 새로운 패러다임 (Research Report)",
-            "date": "2026년 06월 13일",
-            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Research%20Report)",
-            "views": 798,
-            "visitors": 307,
-            "citations": 40
+            "id": "선교-논문(연구보고서)-1-1782101010360",
+            "title": "지역 사회와 함께하는 선교 비전 (Research Report)",
+            "date": "2026년 06월 21일",
+            "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 논문(연구보고서) 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Research%20Report)",
+            "views": 448,
+            "visitors": 148,
+            "citations": 32
           }
         ]
       },
       "발표자료": {
         "recent": [
           {
-            "id": "선교-발표자료-0-1781546960691",
+            "id": "선교-발표자료-0-1782101010360",
             "title": "해외 단기 선교 활동 보고서 (Presentation)",
-            "date": "2026년 06월 15일",
+            "date": "2026년 06월 22일",
             "summary": "해외 단기 선교 활동 보고서에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Presentation)",
-            "views": 199,
-            "visitors": 346,
-            "citations": 50
+            "views": 271,
+            "visitors": 228,
+            "citations": 14
           },
           {
-            "id": "선교-발표자료-1-1781546960691",
+            "id": "선교-발표자료-1-1782101010360",
             "title": "지역 사회와 함께하는 선교 비전 (Presentation)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Presentation)",
-            "views": 650,
-            "visitors": 403,
-            "citations": 12
+            "views": 895,
+            "visitors": 312,
+            "citations": 22
           },
           {
-            "id": "선교-발표자료-2-1781546960691",
+            "id": "선교-발표자료-2-1782101010360",
             "title": "현대 선교의 새로운 패러다임 (Presentation)",
-            "date": "2026년 06월 13일",
+            "date": "2026년 06월 20일",
             "summary": "현대 선교의 새로운 패러다임에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Presentation)",
-            "views": 554,
-            "visitors": 384,
-            "citations": 17
+            "views": 132,
+            "visitors": 122,
+            "citations": 40
           }
         ],
         "popular": [
           {
-            "id": "선교-발표자료-3-1781546960691",
-            "title": "선교지 언어와 문화 이해 (Presentation)",
-            "date": "2026년 06월 12일",
-            "summary": "선교지 언어와 문화 이해에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4%20(Presentation)",
-            "views": 896,
-            "visitors": 283,
-            "citations": 14
-          },
-          {
-            "id": "선교-발표자료-1-1781546960691",
+            "id": "선교-발표자료-1-1782101010360",
             "title": "지역 사회와 함께하는 선교 비전 (Presentation)",
-            "date": "2026년 06월 14일",
+            "date": "2026년 06월 21일",
             "summary": "지역 사회와 함께하는 선교 비전에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EC%A7%80%EC%97%AD%20%EC%82%AC%ED%9A%8C%EC%99%80%20%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94%20%EC%84%A0%EA%B5%90%20%EB%B9%84%EC%A0%84%20(Presentation)",
-            "views": 650,
-            "visitors": 403,
-            "citations": 12
+            "views": 895,
+            "visitors": 312,
+            "citations": 22
           },
           {
-            "id": "선교-발표자료-4-1781546960691",
+            "id": "선교-발표자료-3-1782101010360",
+            "title": "선교지 언어와 문화 이해 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "선교지 언어와 문화 이해에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4%20(Presentation)",
+            "views": 783,
+            "visitors": 491,
+            "citations": 40
+          },
+          {
+            "id": "선교-발표자료-4-1782101010360",
             "title": "디지털 시대의 미디어 선교 전략 (Presentation)",
-            "date": "2026년 06월 11일",
+            "date": "2026년 06월 18일",
             "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
             "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
-            "views": 595,
-            "visitors": 120,
-            "citations": 40
+            "views": 655,
+            "visitors": 441,
+            "citations": 25
           }
         ],
         "cited": [
           {
-            "id": "선교-발표자료-0-1781546960691",
-            "title": "해외 단기 선교 활동 보고서 (Presentation)",
-            "date": "2026년 06월 15일",
-            "summary": "해외 단기 선교 활동 보고서에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%ED%95%B4%EC%99%B8%20%EB%8B%A8%EA%B8%B0%20%EC%84%A0%EA%B5%90%20%ED%99%9C%EB%8F%99%20%EB%B3%B4%EA%B3%A0%EC%84%9C%20(Presentation)",
-            "views": 199,
-            "visitors": 346,
-            "citations": 50
-          },
-          {
-            "id": "선교-발표자료-4-1781546960691",
-            "title": "디지털 시대의 미디어 선교 전략 (Presentation)",
-            "date": "2026년 06월 11일",
-            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
-            "views": 595,
-            "visitors": 120,
+            "id": "선교-발표자료-2-1782101010360",
+            "title": "현대 선교의 새로운 패러다임 (Presentation)",
+            "date": "2026년 06월 20일",
+            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Presentation)",
+            "views": 132,
+            "visitors": 122,
             "citations": 40
           },
           {
-            "id": "선교-발표자료-2-1781546960691",
-            "title": "현대 선교의 새로운 패러다임 (Presentation)",
-            "date": "2026년 06월 13일",
-            "summary": "현대 선교의 새로운 패러다임에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
-            "link": "https://scholar.google.com/scholar?q=%ED%98%84%EB%8C%80%20%EC%84%A0%EA%B5%90%EC%9D%98%20%EC%83%88%EB%A1%9C%EC%9A%B4%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20(Presentation)",
-            "views": 554,
-            "visitors": 384,
-            "citations": 17
+            "id": "선교-발표자료-3-1782101010360",
+            "title": "선교지 언어와 문화 이해 (Presentation)",
+            "date": "2026년 06월 19일",
+            "summary": "선교지 언어와 문화 이해에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EC%84%A0%EA%B5%90%EC%A7%80%20%EC%96%B8%EC%96%B4%EC%99%80%20%EB%AC%B8%ED%99%94%20%EC%9D%B4%ED%95%B4%20(Presentation)",
+            "views": 783,
+            "visitors": 491,
+            "citations": 40
+          },
+          {
+            "id": "선교-발표자료-4-1782101010360",
+            "title": "디지털 시대의 미디어 선교 전략 (Presentation)",
+            "date": "2026년 06월 18일",
+            "summary": "디지털 시대의 미디어 선교 전략에 대한 상세한 발표자료 내용이 포함되어 있습니다.",
+            "link": "https://scholar.google.com/scholar?q=%EB%94%94%EC%A7%80%ED%84%B8%20%EC%8B%9C%EB%8C%80%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%84%A0%EA%B5%90%20%EC%A0%84%EB%9E%B5%20(Presentation)",
+            "views": 655,
+            "visitors": 441,
+            "citations": 25
           }
         ]
       }
